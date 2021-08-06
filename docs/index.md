@@ -1,4 +1,4 @@
-<img src="./docs/assets/disney-logo.png" width="400">
+<img src="./assets/disney-logo.png" width="400">
 
 ## 1. Sobre o projeto
 
@@ -12,9 +12,9 @@ O Disney+ é um serviço de assinatura de streaming de vídeo, fornecendo filmes
 
 |                                                   | Membro           | Github       |
 |---------------------------------------------------|------------------|--------------|
-| <img src="./docs/assets/juliana.jpeg" width="100"> | Juliana Valle  | julianavalle |
-| <img src="./docs/assets/mateus-gomes.jpg" width="100">    | Mateus Gomes |matgomes21    |
-| <img src="./docs/assets/matheus-afonso.jpeg" width="100">| Matheus Afonso | matheusafonsouza    |
-| <img src="./docs/assets/paulo.jpeg" width="100">   | Paulo Victor | twistershark |
-| <img src="./docs/assets/thiago.jpeg" width="100">| Thiago Mesquita | thiagompc    |
-| <img src="./docs/assets/vinicius.jpeg" width="100">   | Vinícius Saturnino |  viniciussaturnino |
+| <img src="./assets/juliana.jpeg" width="100"> | Juliana Valle  | julianavalle |
+| <img src="./assets/mateus-gomes.jpg" width="100">    | Mateus Gomes |matgomes21    |
+| <img src="./assets/matheus-afonso.jpeg" width="100">| Matheus Afonso | matheusafonsouza    |
+| <img src="./assets/paulo.jpeg" width="100">   | Paulo Victor | twistershark |
+| <img src="./assets/thiago.jpeg" width="100">| Thiago Mesquita | thiagompc    |
+| <img src="./assets/vinicius.jpeg" width="100">   | Vinícius Saturnino |  viniciussaturnino |
