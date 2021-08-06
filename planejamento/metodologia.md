@@ -20,10 +20,16 @@
 |||
 
 
-
-
 ## Referência bibliográfica
 <p style='text-align: justify;'> 
-    Sommerville, Ian. <b>Engenharia de software.</b> 10. ed. São Paulo: Pearson Addison Wesley, 2019.
+Sommerville, Ian. <b>Engenharia de software</b>. 10. ed. São Paulo: Pearson Addison Wesley, 2019.
 
+Foggetti, Cristiano. <b>Gestão ágil de projetos</b>. São Paulo: Education do Brasil, 2014.
 </p>
+
+## Histórico de Versão
+
+|<p style='text-align: center;'>Versão</p>|<p style='text-align: center;'>Data</p>|<p style='text-align: center;'>Descrição</p>|<p style='text-align: center;'>Autor(es)</p>|
+|:-:|---|---|---|
+|<p style='text-align: center;'>0.1</p>|<p style='text-align: center;'>06/08/2021</p>|<p style='text-align: center;'>Adicionando métodos ágeis</p>|<p style='text-align: center;'>Juliana</p>|
+||||
