@@ -1,6 +1,6 @@
 <img src="./docs/assets/disney-logo.png" width="400">
 
-## 1. Sobre
+## 1. Sobre o projeto
 
 Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre a requisitos do aplicativo Disney+. Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina, como pré-rastreamento, heurística, modelagem, análise e pós-rastreamento para melhorar os requisitos não funcionais e funcionais do aplicativo.
 
