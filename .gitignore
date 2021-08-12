@@ -1,0 +1,9 @@
+.grunt
+
+node_modules
+
+_docs
+
+*.epub
+*.mobi
+*.pdf
