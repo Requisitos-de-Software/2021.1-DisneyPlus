@@ -1,6 +1,6 @@
 # Metodologia
 
-## Métodos ágeis
+## 1. Métodos ágeis
 <p style='text-align: justify;'>
     Os métodos ágeis são projetados para produzir software útil rapidamente. Eles são baseados no desenvolvimento incremental. Os incrementos são pequenos e uma nova versão do sistema geralmente é criada e fornecida aos clientes a cada duas ou três semanas, para que seja possível obter um feedback rapidamente sobre as mudanças nos requisitos. Além disso, esses métodos minimizam a documentação usando comunicação informal no lugar de reuniões formais com documentos escritos.
 </p>
@@ -18,7 +18,9 @@
 |<p style='text-align: center;'>Manter a simplicidade</p>|<p style='text-align: center;'>Deve-se ter como foco a simplicidade, tanto do software que está sendo desenvolvido quanto do processo de desenvolvimento. Sempre que possível, trabalhe ativamente para eliminar a complexidade do sistema.|
 |<p style='text-align: center;'>Pessoas, não processos</p>|<p style='text-align: center;'>As habilidades do time de desenvolvimento devem ser reconhecidas e aproveitadas da melhor maneira possível. Seus membros devem ter liberdade para desenvolver seu modo próprio de trabalhar sem se prender a processos determinados.</p>|
 
-## Extreme Programming (XP)
+<p style='text-align: center;'>Tabela 1: Princípios do manifesto</p>
+
+## 2. Extreme Programming (XP)
 <p style='text-align: justify;'> 
 Extreme Programming, mais conhecido como XP, é uma metodologia ágil de desenvolvimento de software que tem como objetivo produzir software de alta qualidade e, também, melhor qualidade de vida para a equipe de desenvolvimento. A metodologia XP capacita seus desenvolvedores a lidarem com confiança às mudanças nos requisitos do cliente, mesmo no final do ciclo de vida. Além disso, Don Wells (1999) diz que a XP é configurada para pequenos grupos de programadores. A equipe XP inclui não apenas os desenvolvedores, mas também os gerentes e clientes, todos trabalhando juntos.
 </p>
@@ -27,10 +29,9 @@ Os requisitos se baseiam em histórias simples dos clientes (histórias de usuá
 </p>
 
 <img src="./assets/release-xp.png" width="400">
-Ciclo de release da XP.
+<p style='text-align: center;'>Imagem 1: Ciclo de release da XP. </p>
 
-
-## Scrum
+## 3. Scrum
 <p style='text-align: justify;'> 
 Scrum é um método ágil, iterativo e incremental para gerenciamento de projetos, que não necessariamente precisam ser projetos de desenvolvimento de software. Dentre os métodos ágeis, Scrum é o mais conhecido e usado. Por meio da organização das tarefas e prioridades que o Scrum estabelece, passa a ser possível garantir o cumprimento de prazos e um maior foco nas diretrizes estabelecidas pelo planejamento. Sabendo quais são as atividades que possuem mais importância, as equipes consegue organizar melhor o fluxo de uma para a outra.
 </p>
@@ -38,10 +39,10 @@ Scrum é um método ágil, iterativo e incremental para gerenciamento de projeto
 O Scrum utiliza o product backlog que é um registro que contém as áreas do produto que devem ser desenvolvidas.  De acordo com a prioridade de cada produto, cria-se uma lista de tarefas de liberação a partir da lista de tarefas de produtos, que é o ponto de conexão para que as necessidades da lista de tarefas de produtos sejam processadas. Publicar uma tarefa é um ponto na criação de uma tarefa do sprint e representa o período de tempo para a conclusão de uma tarefa (chamada de história de usuário).
 </p>
 <img src="./assets/sprint-scrum.png" width="400">
-Ciclo de sprint do Scrum.
+<p style='text-align: center;'> Imagem 2: Ciclo de sprint do Scrum. </p>
 
 
-## Kanban
+## 4. Kanban
 <p style='text-align: justify;'> 
 O método Kanban é projetado para causar mudanças evolutivas em seu gerenciamento de maneira não disruptiva. Implementando pequenas mudanças em vez de grandes mudanças, o risco de resistência de sua equipe é reduzido. A abordagem incremental a esta abordagem tem pouca ou nenhuma resistência de sua equipe ou partes interessadas. A primeira etapa é criar um Kanban para visualizar o fluxo de trabalho. O Quadro Kanban é dividido em colunas, da seguinte forma:
 </p>
@@ -53,9 +54,9 @@ As demais colunas são os passos que devem ser seguidos para transformar uma his
 </p>
 
 <img src="./assets/kanban-example.png" width="400">
-Exemplo de quadro Kanban.
+<p style='text-align: center;'> Imagem 3: Exemplo de quadro Kanban.
 
-## Pair Programming
+## 5. Pair Programming
 <p style='text-align: justify;'> 
 O Pair Programming, ou traduzida literalmente como Programação em Pares, é uma técnica ágil de desenvolvimento de software. O objetivo é melhorar a qualidade do software desenvolvido sem alterar seu prazo de entrega. O trabalho é feito por duas pessoas em um computador. Um é responsável por controlar o processo de criação e escrever o código. Ao mesmo tempo, o outro faz mais análises, olhando cada linha de código para identificar erros.
 </p>
@@ -64,26 +65,30 @@ Para tornar o processo mais dinâmico e eficaz, é comum que os parceiros troque
 </p>
 
 
-## Referência bibliográfica
+## 6. Referência bibliográfica
 <p style='text-align: justify;'> 
 Sommerville, Ian. <b>Engenharia de software</b>. 10. ed. São Paulo: Pearson Addison Wesley, 2019.
-
+</p>
+<p style='text-align: justify;'> 
 Foggetti, Cristiano. <b>Gestão ágil de projetos</b>. São Paulo: Education do Brasil, 2014.
-
+</p>
+<p style='text-align: justify;'> 
 Wells, Don. Extreme Programming: A gentle introduction. <b>Extreme Programming</b>, 1999. Disponível em: http://www.extremeprogramming.org/
-
+</p>
+<p style='text-align: justify;'> 
 Metodologias ágeis: o que é Pair Programming?. <b>Programadores Brasil</b>, 2020. Disponível em: https://programadoresbrasil.com.br/2020/04/o-que-e-pair-programming/
-
+</p>
+<p style='text-align: justify;'> 
 Metodologia Ágil: O que é Kanban. <b>Programadores Brasil</b>, 2020. Disponível em: https://programadoresbrasil.com.br/2020/02/metodologia-agil-o-que-e-kanban/
-
+</p>
+<p style='text-align: justify;'> 
 Extreme Programming. <b>Agile Alliance</b>. Disponível em: https://www.agilealliance.org/glossary/xp/#.YRnn2znQQyc
-
+</p>
+<p style='text-align: justify;'> 
 Metodologia Ágil: O que é Scrum. <b>Programadores Brasil</b>, 2020. Disponível em: https://programadoresbrasil.com.br/2020/02/o-que-e-scrum-metodologia-agil/
-
-
 </p>
 
-## Histórico de Versão
+## 7. Histórico de Versão
 
 |<p style='text-align: center;'>Versão</p>|<p style='text-align: center;'>Data</p>|<p style='text-align: center;'>Descrição</p>|<p style='text-align: center;'>Autor(es)</p>|
 |:-:|---|---|---|
