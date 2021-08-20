@@ -1,3 +1,24 @@
 site_name: Disney Plus
+
+repo_name: '2021.1-DisneyPlus'
+repo_url: 'https://github.com/Requisitos-de-Software/2021.1-DisneyPlus'
+
 theme:
   name: material
+  language: 'pt'
+  logo: 'assets/favicon.ico'
+  favicon: 'assets/favicon.ico'
+  palette:
+    primary: '#fff'
+    accent: 'light blue'
+  font:
+    text: 'Montserrat'
+    code: 'sans-serif'
+
+extra_css:
+  - stylesheets/styles.css
+
+nav:
+  - Início: index.md
+  - Planejamento:
+      - Metodologia: planejamento/metodologia.md
