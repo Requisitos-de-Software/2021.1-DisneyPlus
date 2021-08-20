@@ -22,3 +22,5 @@ nav:
   - Início: index.md
   - Planejamento:
       - Metodologia: planejamento/metodologia.md
+  - Elicitação:
+      - Questionário: elicitacao/questionario.md
