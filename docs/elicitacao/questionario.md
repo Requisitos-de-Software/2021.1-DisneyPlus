@@ -2,4 +2,4 @@
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 06/08/2021 | Criação da documentação relacionada ao questionário | Paulo Victor |
+| 0.1    | 20/08/2021 | Criação da documentação relacionada ao questionário | Paulo Victor |
