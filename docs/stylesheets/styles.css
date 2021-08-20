@@ -1,0 +1,15 @@
+p img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+p {
+  text-align: justify;
+}
+
+td,
+th {
+  text-align: center !important;
+}
