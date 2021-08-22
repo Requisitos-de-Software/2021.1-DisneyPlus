@@ -14,7 +14,7 @@
 
 &emsp;&emsp;Através da divulgação e do compartilhamento dos integrantes da equipe, conseguimos receber um total de 135 respostas concluindo o objetivo que tínhamos com essa técnica e tendo uma boa diversidade de respostas para a análise da equipe.
 
-## Questões
+## 3. Questões
 
 ### Questão 1
 
@@ -56,7 +56,7 @@
 
 ![Em uma escala de 1 a 5, qual seu nível de satisfação com o formato de apresentação do conteúdo no Disney+?](../assets/questionario/questao10.png)
 
-## 1. Histórico de Versão
+## 4. Histórico de Versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
