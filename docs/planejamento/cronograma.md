@@ -18,7 +18,7 @@
 | VI    | Pós-Rastreabilidade | 09/10 ~ 19/10 | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 14/10 |
 | VII    | Apresentação final | 20/10 ~ 26/10 | Conclusão do projeto | 21/10 ~ 26/10 |
 
-<figcaption>Tabela 1 - Cronograma de atividades</figcaption>
+<figcaption>Tabela 1: Cronograma de atividades.</figcaption>
 
 </center>
 
@@ -30,7 +30,7 @@
 
 ![Mapa de Calor](../assets/heatmap.jpeg)
 
-<figcaption>Figura 1 - Mapa de Calor</figcaption>
+<figcaption>Imagem 1: Mapa de calor do grupo.</figcaption>
 
 </center>
 
@@ -41,3 +41,4 @@
 | 0.1    | 23/08/2021 | Criação da introdução | Mateus Gomes |
 | 0.2    | 24/08/2021 | Adição do cronograma de atividades | Mateus Gomes e Juliana |
 | 0.3    | 24/08/2021 | Adição do mapa de calor e formatação | Mateus Gomes e Juliana |
+| 0.4    | 24/08/2021 | Correções de formatação | Mateus Gomes |

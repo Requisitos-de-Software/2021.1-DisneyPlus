@@ -18,47 +18,88 @@
 
 ### Questão 1
 
+<center>
 ![Já utilizou o Disney+ alguma vez?](../assets/questionario/questao1.png)
+
+<figcaption>Imagem 1: Questão 1 do questionário.</figcaption>
+</center>
 
 ### Questão 2
 
+<center>
 ![Qual a sua idade](../assets/questionario/questao2.png)
+
+<figcaption>Imagem 2: Questão 2 do questionário.</figcaption>
+</center>
 
 ### Questão 3
 
+<center>
 ![Quais são os principais motivos que te fazem assinar a plataforma Disney+](../assets/questionario/questao3.png)
+
+<figcaption>Imagem 3: Questão 3 do questionário.</figcaption>
+</center>
 
 ### Questão 4
 
+<center>
 ![Com qual frequência você utiliza a plataforma da Disney+?](../assets/questionario/questao4.png)
+
+<figcaption>Imagem 4: Questão 4 do questionário.</figcaption>
+</center>
 
 ### Questão 5
 
+<center>
 ![Em uma escala de 1 a 5, as recomendações da Disney+ coincidem com os seus gostos?](../assets/questionario/questao5.png)
+
+<figcaption>Imagem 5: Questão 5 do questionário.</figcaption>
+</center>
 
 ### Questão 6
 
+<center>
 ![Quais funcionalidades você acha essenciais para um site como Disney+?](../assets/questionario/questao6.png)
+
+<figcaption>Imagem 6: Questão 6 do questionário.</figcaption>
+</center>
 
 ### Questão 7
 
+<center>
 ![Como é a sua experiência com o Disney+?](../assets/questionario/questao7.png)
+
+<figcaption>Imagem 7: Questão 7 do questionário.</figcaption>
+</center>
 
 ### Questão 8
 
+<center>
 ![Você já teve dificuldade com algo na plataforma?](../assets/questionario/questao8.png)
+
+<figcaption>Imagem 8: Questão 8 do questionário.</figcaption>
+</center>
 
 ### Questão 9
 
+<center>
 ![Se sim, quais problemas?](../assets/questionario/questao9.png)
+
+<figcaption>Imagem 9: Questão 9 do questionário.</figcaption>
+</center>
 
 ### Questão 10
 
+<center>
 ![Em uma escala de 1 a 5, qual seu nível de satisfação com o formato de apresentação do conteúdo no Disney+?](../assets/questionario/questao10.png)
 
-## 4. Histórico de Versão
+<figcaption>Imagem 10: Questão 10 do questionário.</figcaption>
+</center>
+
+## 4. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 20/08/2021 | Criação da documentação relacionada ao questionário | Paulo Victor |
 | 0.2    | 22/08/2021 | Adiciona definição, metodologia e questões          | Paulo Victor |
+| 0.3    | 24/08/2021 | Adição de legendas e correções na formatação          | Mateus Gomes |

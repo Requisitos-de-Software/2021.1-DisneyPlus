@@ -6,6 +6,8 @@
 
 &emsp;&emsp;Os métodos ágeis consideram o design e a implementação como atividades centrais no processo de software. Eles incorporam outras tarefas a essas atividades, como a elicitação dos requisitos e os testes. Apesar de existirem diversos processos ágeis, todos compartilham um conjunto de princípios com base no manifesto ágil e foi descrito por Sommerville, Ian (2019, p. 61):
 
+<center>
+
 | Princípio               | Descrição                                                                                                                                                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Envolvimento do cliente | Os clientes devem ser envolvidos em todo o processo de desenvolvimento. Seu papel é fornecer e priorizar novos requisitos de sistema e avaliar as iterações do sistema.                                                              |
@@ -14,15 +16,23 @@
 | Manter a simplicidade   | Deve-se ter como foco a simplicidade, tanto do software que está sendo desenvolvido quanto do processo de desenvolvimento. Sempre que possível, trabalhe ativamente para eliminar a complexidade do sistema.                         |
 | Pessoas, não processos  | As habilidades do time de desenvolvimento devem ser reconhecidas e aproveitadas da melhor maneira possível. Seus membros devem ter liberdade para desenvolver seu modo próprio de trabalhar sem se prender a processos determinados. |
 
+<figcaption>Tabela 1: Princípios dos métodos ágeis.</figcaption>
+
+</center>
+
 ## 2. Extreme Programming (XP)
 
 &emsp;&emsp;Extreme Programming, mais conhecido como XP, é uma metodologia ágil de desenvolvimento de software que tem como objetivo produzir software de alta qualidade e, também, melhor qualidade de vida para a equipe de desenvolvimento. A metodologia XP capacita seus desenvolvedores a lidarem com confiança às mudanças nos requisitos do cliente, mesmo no final do ciclo de vida. Além disso, Don Wells (1999) diz que a XP é configurada para pequenos grupos de programadores. A equipe XP inclui não apenas os desenvolvedores, mas também os gerentes e clientes, todos trabalhando juntos.
 
 &emsp;&emsp;Os requisitos se baseiam em histórias simples dos clientes (histórias de usuário) e são utilizados como base para decidir qual funcionalidade deve ser incluída em um determinado incremento. Os programadores trabalham em pares (pair programming) e desenvolvem testes para cada tarefa antes de escreverem o código. Todos os testes devem ser executados com sucesso quando o novo código é integrado ao sistema, já que há um curto intervalo de tempo entre as releases do sistema.
 
+<center>
+
 ![Ciclo de release da XP](../assets/release-xp.png)
 
-<center>Imagem 1: Ciclo de release da XP</center>
+<figcaption>Imagem 1: Ciclo de release da XP.</figcaption>
+
+</center>
 
 ## 3. Scrum
 
@@ -30,9 +40,14 @@
 
 &emsp;&emsp;O Scrum utiliza o product backlog que é um registro que contém as áreas do produto que devem ser desenvolvidas. De acordo com a prioridade de cada produto, cria-se uma lista de tarefas de liberação a partir da lista de tarefas de produtos, que é o ponto de conexão para que as necessidades da lista de tarefas de produtos sejam processadas. Publicar uma tarefa é um ponto na criação de uma tarefa do sprint e representa o período de tempo para a conclusão de uma tarefa (chamada de história de usuário).
 
+
+<center>
+
 ![Ciclo de sprint do Scrum](../assets/sprint-scrum.png)
 
-<center>Imagem 2: Ciclo de sprint do Scrum.</center>
+<figcaption>Imagem 2: Ciclo de sprint do Scrum.</figcaption>
+
+</center>
 
 ## 4. Kanban
 
@@ -42,16 +57,27 @@
 
 &emsp;&emsp;As demais colunas são os passos que devem ser seguidos para transformar uma história do usuário em uma funcionalidade executável. A ideia, portanto, é que as histórias sejam processadas passo a passo, da esquerda para a direita, como em uma linha de montagem. Além disso, cada coluna é dividida em duas sub-colunas: em execução e concluídas. As tarefas concluídas em um passo estão aguardando serem puxadas, por um membro do time, para o próximo passo. Por isso, Kanban é chamado de um sistema pull.
 
+
+<center>
+
 ![Exemplo de quadro Kanban](../assets/kanban-example.png)
 
-<center>Imagem 3: Exemplo de quadro Kanban.</center>
+<figcaption>Imagem 3: Exemplo de quadro Kanban.</figcaption>
+
+</center>
 
 
 ## 5. Política de Branches e Commits
 
 &emsp;&emsp;Através da imagem abaixo iremos implementar o git flow do projeto, de maneira que para uma mudança impactar a branch main (branch principal) os seguintes passos deverão ser seguidos:
 
+<center>
+
 ![Git flow](../assets/metodologia/git_flow.png)
+
+<figcaption>Imagem 4: Exemplo de fluxo de branch.</figcaption>
+
+</center>
 
 1. Deve-se criar uma branch nova a partir da main
 2. Ao acabar a implementação na branch nova, deve ser criado um PR para ser avaliado, preenchendo os campos necessários do modelo pré-determinado
@@ -59,7 +85,13 @@
 
 &emsp;&emsp;Toda nova branch deverá seguir um padrão de nomenclatura, sendo seguido o padrão de Conventional Commits tanto para o nome da branch como para os commits feitos:
 
+<center>
+
 ![Quadro de Conventional Commits](../assets/metodologia/commits.png)
+
+<figcaption>Imagem 5: Quadro de commits convencionais.</figcaption>
+
+</center>
 
 Exemplo:
 
@@ -90,7 +122,7 @@ Exemplo:
 
 > - Metodologia Ágil: O que é Scrum. **Programadores Brasil**, 2020. Disponível em: https://programadoresbrasil.com.br/2020/02/o-que-e-scrum-metodologia-agil/
 
-## 7. Histórico de Versão
+## 7. Histórico de versão
 
 | Versão | Data       | Descrição                                 | Autor        |
 | ------ | ---------- | ----------------------------------------- | ------------ |
@@ -99,3 +131,4 @@ Exemplo:
 | 0.3    | 16/08/2021 | Adicionando Scrum e Kanban                | Juliana      |
 | 0.4    | 20/08/2021 | Correções na apresentação da documentação | Paulo Victor |
 | 0.4    | 24/08/2021 | Criação de política de branche e commits | Matheus Afonso |
+| 0.5    | 24/08/2021 | Correções de formatação | Mateus Gomes |

@@ -28,3 +28,8 @@ img[alt="caption"] {
   width: 20rem;
   object-fit: cover;
 }
+
+img[alt="logo"] {
+  width: 20rem;
+  object-fit: cover;
+}

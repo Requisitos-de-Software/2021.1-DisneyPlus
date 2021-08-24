@@ -12,7 +12,7 @@
 
 ![Rich Picture Version 1](../assets/rich_pictures/version-1.jpg)
 
-<figcaption>Imagem 1: Rich Picture Versão 1</figcaption>
+<figcaption>Imagem 1: Rich Picture versão 1.</figcaption>
 
 </center>
 
@@ -24,7 +24,7 @@
 
 ![caption](../assets/rich_pictures/caption-1.jpg)
 
-<figcaption>Imagem 2: Legenda do Rich Picture Versão 1</figcaption>
+<figcaption>Imagem 2: Legenda do Rich Picture versão 1.</figcaption>
 
 </center>
 
@@ -44,3 +44,4 @@
 | 0.2    | 24/08/2021 | Criação da introdução | Mateus Gomes |
 | 0.3    | 24/08/2021 | Adição da primeira versão | Mateus Gomes |
 | 0.4    | 24/08/2021 | Adição da referência bibliográfica | Mateus Gomes |
+| 0.5    | 24/08/2021 | Correções de formatação | Mateus Gomes |
