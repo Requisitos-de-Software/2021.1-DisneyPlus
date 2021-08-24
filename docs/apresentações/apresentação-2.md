@@ -2,7 +2,7 @@
 
 ## 1. Elicitação
 
-<iframe class="release-video" src="https://youtu.be/lzVCVlu8LpM" name="Apresentação 2 - Elicitação" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> Seu navegador não possui suporte para esse recurso... </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lzVCVlu8LpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2. Histórico de Versão
 
@@ -10,3 +10,4 @@
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 21/08/2021 | Gravação da apresentação | Todos os integrantes |
 | 0.2    | 23/08/2021 | Adição do vídeo no documento | Mateus Gomes |
+| 0.3    | 23/08/2021 | Correção do link embed do vídeo | Mateus Gomes |
