@@ -20,9 +20,6 @@ extra_css:
 
 nav:
   - Início: index.md
-  - Apresentações:
-      - Apresentação 1: apresentações/apresentação-1.md
-      - Apresentação 2: apresentações/apresentação-2.md
   - Planejamento:
       - Metodologia: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
@@ -35,5 +32,8 @@ nav:
       - Resultado e Priorização: 
          - MoSCoW: elicitacao/moscow.md
          - Resultado: elicitacao/resultado_elicitacao.md
+  - Apresentações:
+    - Apresentação 1: apresentações/apresentação-1.md
+    - Apresentação 2: apresentações/apresentação-2.md
          
 dev_addr: '0.0.0.0:8000'
