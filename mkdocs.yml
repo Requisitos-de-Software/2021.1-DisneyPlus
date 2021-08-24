@@ -28,6 +28,7 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
   - Elicitação:
+      - Personas: elicitacao/personas.md
       - Brainstorming: elicitacao/brainstorm.md
       - Introspecção: elicitacao/introspeccao.md
       - Questionário: elicitacao/questionario.md
