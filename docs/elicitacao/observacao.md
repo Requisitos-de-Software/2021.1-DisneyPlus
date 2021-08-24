@@ -36,3 +36,4 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 24/08/2021 | Criação da documentação relacionada à observação | Thiago Mesquita |
+| 0.2    | 24/08/2021 | Adição da referência bibliográfica | Thiago Mesquita |
