@@ -39,5 +39,5 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 23/08/2021 | Criação da introdução | Mateus Gomes |
-| 0.2    | 24/08/2021 | Adição do cronograma de atividades | Mateus Gomes |
-| 0.3    | 24/08/2021 | Adição do mapa de calor e formatação | Mateus Gomes |
+| 0.2    | 24/08/2021 | Adição do cronograma de atividades | Mateus Gomes e Juliana |
+| 0.3    | 24/08/2021 | Adição do mapa de calor e formatação | Mateus Gomes e Juliana |
