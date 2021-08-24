@@ -25,18 +25,19 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
   - Pré-rastreabilidade:
-      - RichPictures: pré_rastreabilidade/rich_pictures.md
+      - RichPictures: pre_rastreabilidade/rich_pictures.md
   - Elicitação:
       - Personas: elicitacao/personas.md
-      - Brainstorming: elicitacao/brainstorm.md
-      - Observação: elicitacao/observacao.md
-      - Introspecção: elicitacao/introspeccao.md
-      - Questionário: elicitacao/questionario.md
-      - Resultado e Priorização: 
-         - MoSCoW: elicitacao/moscow.md
-         - Resultado: elicitacao/resultado_elicitacao.md
+      - Técnicas:
+        - Brainstorming: elicitacao/tecnicas/brainstorm.md
+        - Observação: elicitacao/tecnicas/observacao.md
+        - Introspecção: elicitacao/tecnicas/introspeccao.md
+        - Questionário: elicitacao/tecnicas/questionario.md
+      - Priorização: 
+         - MoSCoW: elicitacao/priorizacao/moscow.md
+      - Resultado: elicitacao/resultado.md
   - Apresentações:
-    - Apresentação 1: apresentações/apresentação-1.md
-    - Apresentação 2: apresentações/apresentação-2.md
+    - Apresentação 1: apresentacoes/apresentacao1.md
+    - Apresentação 2: apresentacoes/apresentacao2.md
          
 dev_addr: '0.0.0.0:8000'

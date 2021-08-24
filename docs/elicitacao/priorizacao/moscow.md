@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Existe um processo chamado priorização de requisitos, o qual ajuda a manter uma entrega rápida do máximo de funcionalidades possíveis dentro das restrições do projeto. Para realizar esse processo foi escolhido a técnica MoSCoW. Suas letras maiúsculas indicam o esquema de priorização que deve ser seguido:
+&emsp;&emsp;Existe um processo chamado priorização de requisitos, o qual ajuda a manter uma entrega rápida do máximo de funcionalidades possíveis dentro das restrições do projeto. Para realizar esse processo foi escolhido a técnica MoSCoW. Suas letras maiúsculas indicam o esquema de priorização que deve ser seguido:
 
 ## 2. Metodologia
 
@@ -61,7 +61,7 @@ Existe um processo chamado priorização de requisitos, o qual ajuda a manter um
 | RF34   | O usuário deve poder entrar em um grupo watch               | Could      |
 | RF35   | O usuário deve poder restringir a criação de perfis         | Could      |
 
-<figcaption>Tabela 1 - Requisitos Funcionais</figcaption>
+<figcaption>Tabela 1: Requisitos funcionais.</figcaption>
 
 </center>
 
@@ -78,14 +78,15 @@ Existe um processo chamado priorização de requisitos, o qual ajuda a manter um
 | RNF5   | O usuário deve poder assistir ao mesmo tempo que outra pessoa | Should      |
 | RNF6   | O usuário deve poder assistir em qualquer dispositivo          | Should      |
 
-<figcaption>Tabela 2 - Requisitos Não Funcionais</figcaption>
+<figcaption>Tabela 2: Requisitos não funcionais.</figcaption>
 
 </center>
 
-## 5. Histórico de Versão
+## 5. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 23/08/2021 | Priorização dos requisitos e Criação do documento   | Vinicius Saturnino e Matheus Afonso |
 | 0.2    | 24/08/2021 | Alteração de prioridades e formatação do documento   | Mateus Gomes |
+| 0.3    | 24/08/2021 | Correções na formatação   | Mateus Gomes |
 

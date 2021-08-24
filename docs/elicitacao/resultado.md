@@ -1,20 +1,22 @@
 # Resultado Elicitação
 
-## Metodologia
+## 1. Metodologia
 
 &emsp;&emsp;Através deste documento, buscamos reunir os requisitos que foram levantados por todos os métodos utilizados pelo grupo, de maneira a entregar, de maneira organizada e coesa, as funcionalidades do aplicação em questão.
 
-## Participantes
+## 2. Participantes
 
 - Matheus Afonso de Souza
 - Vinicius de Sousa Saturnino
 
-## Resultado
+## 3. Resultado
 
-### Requisitos funcionais
+### 3.1 Requisitos funcionais
+
+<center>
 
 | Número | Requisito | Técnica        |
-| ------ | ---------- | --------------------------------------------------- |
+| :------: | ---------- | :---------------------------------------------------: |
 | RF1 | O usuário deve poder criar um perfil | Brainstorm |
 | RF2 | O usuário deve poder realizar login | Brainstorm |
 | RF3 | O usuário deve poder criar uma conta | Brainstorm |
@@ -51,10 +53,16 @@
 | RF34 | O usuário deve poder entrar em um grupo watch | Observação |
 | RF35 | O usuário deve poder restringir a criação de perfis | Observação |
 
-### Requisitos não funcionais
+<figcaption>Tabela 1: Requisitos funcionais.</figcaption>
+
+</center>
+
+### 3.2 Requisitos não funcionais
+
+<center>
 
 | Número | Requisito | Técnica        |
-| ------ | ---------- | --------------------------------------------------- |
+| :------: | ---------- | :---------------------------------------------------: |
 | RNF1 | O sistema deve ser responsivo | Brainstorm |
 | RNF2 | O sistema deve ter autoplay | Brainstorm, instrospeção e questionário |
 | RNF3 | O sistema deve recomendar títulos semelhantes | Brainstorm |
@@ -62,8 +70,13 @@
 | RNF5 | O usuário deve poder assistir ao mesmo tempo que outra pessoa | Brainstorm |
 | RNF6 | O usuário deve poder assisir em qualquer dispositivo | Observação |
 
-## Histórico de Versão
+<figcaption>Tabela 2: Requisitos não funcionais.</figcaption>
+
+</center>
+
+## 4. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 23/08/2021 | Registro e categorização de métodos dos requisitos  | Matheus Afonso e Vinicius Saturnino |
+| 0.2    | 24/08/2021 | Adição de índices e legendas e correções na formatação  | Mateus Gomes |

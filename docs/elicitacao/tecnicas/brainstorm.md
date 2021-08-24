@@ -18,8 +18,10 @@
 ## 4. Resultados
 &emsp;&emsp;Como resultado da discussão e das ideias dos participantes, os seguintes requisitos foram levantados.
 
+<center>
+
 | Número | Requisitos Funcionais                                         |
-| ------ | --------------------------------------------------|
+| :------: | :--------------------------------------------------: |
 | 1    | O usuário deve poder criar uma conta |
 | 2    | O usuário deve poder realizar login na conta         |
 | 3    | O usuário deve poder criar um perfil      |
@@ -46,7 +48,9 @@
 | 22    | O usuário deve poder criar um perfil infantil     |
 | 23    | O usuário deve poder controlar o volume do título   |
 
-| Número | Requisitos Funcionais                                         |
+<figcaption>Tabela 1: Requisitos funcionais.</figcaption>
+
+| Número | Requisitos Não Funcionais                                         |
 | ------ | --------------------------------------------------|
 | 1    | O sistema deve ter a opção de reprodução automática |
 | 2    | O sistema deve ser responsivo  |
@@ -55,8 +59,12 @@
 | 5    | O usuário deve poder assistir em qualquer dispositivo   |
 | 6    | O sistema deve recomendar títulos semelhantes   |
 
-## 5. Histórico de Versão
+<figcaption>Tabela 2: Requisitos não funcionais.</figcaption>
+
+</center>
+## 5. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 23/08/2021 | Criação da documentação relacionada ao brainstorming | Thiago Mesquita |
+| 0.2    | 24/08/2021 | Adição de legendas e correções na formatação | Mateus Gomes |
