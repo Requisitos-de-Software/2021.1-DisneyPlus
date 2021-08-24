@@ -33,3 +33,5 @@ nav:
       - Resultado e Priorização: 
          - MoSCoW: elicitacao/moscow.md
          - Resultado: elicitacao/resultado_elicitacao.md
+         
+dev_addr: '0.0.0.0:8000'
