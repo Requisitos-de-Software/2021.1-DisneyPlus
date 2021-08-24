@@ -13,3 +13,8 @@ td,
 th {
   text-align: center !important;
 }
+
+img[alt="drawing"] {
+  width: 3rem;
+  object-fit: cover;
+}
