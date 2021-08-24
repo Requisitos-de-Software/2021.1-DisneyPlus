@@ -24,6 +24,8 @@ nav:
       - Metodologia: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
+  - Pré-rastreabilidade:
+      - RichPictures: pré_rastreabilidade/rich_pictures.md
   - Elicitação:
       - Personas: elicitacao/personas.md
       - Brainstorming: elicitacao/brainstorm.md
