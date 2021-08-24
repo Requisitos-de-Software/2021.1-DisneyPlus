@@ -28,8 +28,12 @@
 | 6    | O usuário deve poder criar um grupo watch   |
 | 7    | O usuário deve poder restringir a criação de perfil    |
 
-## 5. Histórico de Versão
+## 5. Referência bibliográfica
+> - https://sites.google.com/site/tecnicaselicitacao/
+
+## 6. Histórico de Versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 24/08/2021 | Criação da documentação relacionada à observação | Thiago Mesquita |
+| 0.2    | 24/08/2021 | Adição da referência bibliográfica | Thiago Mesquita |
