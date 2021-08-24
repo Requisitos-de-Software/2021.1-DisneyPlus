@@ -14,7 +14,7 @@ Para a execução no projeto, foram necessárias a utilização de ferramentas p
 | ![drawing](../assets/ferramentas/miro.svg) | Miro | Reuniões da equipe e elaboração das atividades |
 
 
-## 2. Histórico de Versão
+## Histórico de Versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
