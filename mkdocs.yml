@@ -27,6 +27,7 @@ nav:
   - Elicitação:
       - Personas: elicitacao/personas.md
       - Brainstorming: elicitacao/brainstorm.md
+      - Observação: elicitacao/observacao.md
       - Introspecção: elicitacao/introspeccao.md
       - Questionário: elicitacao/questionario.md
       - Resultado e Priorização: 

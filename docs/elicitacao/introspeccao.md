@@ -20,6 +20,8 @@
 | 2    | O usuário deve poder ter a opção de pular a abertura        |
 | 3    | O usuário deve poder alterar o idioma e a legenda do título     |
 
+## 5. Histórico de Versão
+
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 23/08/2021 | Criação da documentação relacionada à introspecção | Thiago Mesquita |

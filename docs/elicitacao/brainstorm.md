@@ -55,6 +55,7 @@
 | 5    | O usuário deve poder assistir em qualquer dispositivo   |
 | 6    | O sistema deve recomendar títulos semelhantes   |
 
+## 5. Histórico de Versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
