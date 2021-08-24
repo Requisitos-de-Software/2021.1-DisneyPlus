@@ -24,3 +24,6 @@ nav:
       - Metodologia: planejamento/metodologia.md
   - Elicitação:
       - Questionário: elicitacao/questionario.md
+      - Resultado e Priorização: 
+         - MoSCoW: elicitacao/moscow.md
+         - Resultado: elicitacao/resultado_elicitacao.md
