@@ -18,3 +18,9 @@ O Disney+ é um serviço de assinatura de streaming de vídeo, fornecendo filmes
 | <img src="./assets/paulo.jpg" width="100">           | Paulo Victor       | twistershark      |
 | <img src="./assets/thiago.jpeg" width="100">         | Thiago Mesquita    | thiagompc         |
 | <img src="./assets/vinicius.jpeg" width="100">       | Vinícius Saturnino | viniciussaturnino |
+
+## 4, Histórico de Versão
+
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 0.1    | 20/08/2021 | Criação da página de início | Paulo Victor e Juliana Valle |
