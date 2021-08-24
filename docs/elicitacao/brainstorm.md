@@ -54,3 +54,8 @@
 | 4    | O sistema deve recomendar títulos para o perfil   |
 | 5    | O usuário deve poder assistir em qualquer dispositivo   |
 | 6    | O sistema deve recomendar títulos semelhantes   |
+
+
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 0.1    | 23/08/2021 | Criação da documentação relacionada ao brainstorming | Thiago Mesquita |
