@@ -2,7 +2,7 @@
 
 ## 1. Definição
 
-&emsp;&emsp;A técnica de elicitação através da observação consiste em inserir o engenheiro de requisitos responsável pela elicitação dos dados. O engenheiro deve estar atento a todas atividades dos envolvidos e  descrevê-las de forma a ser inserida na descrição do requisito.
+&emsp;&emsp;A técnica de elicitação através da observação consiste em inserir o engenheiro de requisitos responsável pela elicitação dos dados no contexto do sistema. O engenheiro deve estar atento a todas atividades dos envolvidos e  descrevê-las de forma a ser inserida na descrição do requisito.
 
 ## 2. Metodologia
 
@@ -47,3 +47,4 @@
 | 0.1    | 24/08/2021 | Criação da documentação relacionada à observação | Thiago Mesquita |
 | 0.2    | 24/08/2021 | Adição da referência bibliográfica | Thiago Mesquita |
 | 0.3    | 24/08/2021 | Adição de legendas e correção na formatação | Mateus Gomes |
+| 0.4    | 24/08/2021 | Correção na informação da definição | Vinicius Saturnino |
