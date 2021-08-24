@@ -46,13 +46,35 @@
 
 <center>Imagem 3: Exemplo de quadro Kanban.</center>
 
-## 5. Pair Programming
+
+## 5. Política de Branches e Commits
+
+&emsp;&emsp;Através da imagem abaixo iremos implementar o git flow do projeto, de maneira que para uma mudança impactar a branch main (branch principal) os seguintes passos deverão ser seguidos:
+
+![Git flow](../assets/metodologia/git_flow.png)
+
+1. Deve-se criar uma branch nova a partir da main
+2. Ao acabar a implementação na branch nova, deve ser criado um PR para ser avaliado, preenchendo os campos necessários do modelo pré-determinado
+3. Caso o PR seja aprovado, a branch nova será apagada e o seu conteúdo estará na main
+
+&emsp;&emsp;Toda nova branch deverá seguir um padrão de nomenclatura, sendo seguido o padrão de Conventional Commits tanto para o nome da branch como para os commits feitos:
+
+![Quadro de Conventional Commits](../assets/metodologia/commits.png)
+
+Exemplo:
+
+    feat/new-feature --branch
+
+    feat: create a new feature --commit
+
+
+## 6. Pair Programming
 
 &emsp;&emsp;O Pair Programming, ou traduzida literalmente como Programação em Pares, é uma técnica ágil de desenvolvimento de software. O objetivo é melhorar a qualidade do software desenvolvido sem alterar seu prazo de entrega. O trabalho é feito por duas pessoas em um computador. Um é responsável por controlar o processo de criação e escrever o código. Ao mesmo tempo, o outro faz mais análises, olhando cada linha de código para identificar erros.
 
 &emsp;&emsp;Para tornar o processo mais dinâmico e eficaz, é comum que os parceiros troquem papéis ao longo do processo de desenvolvimento do trabalho. Isso ajuda a tornar o processo mais eficiente e menos sujeito a erros, pois o observador sempre estará ciente da falha e o controlador poderá se concentrar na digitação do código.
 
-## 6. Referência bibliográfica
+## 7. Referência bibliográfica
 
 > - Sommerville, Ian. **Engenharia de software**. 10. ed. São Paulo: Pearson Addison Wesley, 2019.
 
@@ -76,3 +98,4 @@
 | 0.2    | 16/08/2021 | Adicionando XP e Pair Programming         | Juliana      |
 | 0.3    | 16/08/2021 | Adicionando Scrum e Kanban                | Juliana      |
 | 0.4    | 20/08/2021 | Correções na apresentação da documentação | Paulo Victor |
+| 0.4    | 24/08/2021 | Criação de política de branche e commits | Matheus Afonso |
