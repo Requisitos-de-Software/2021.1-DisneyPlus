@@ -23,3 +23,8 @@ img[alt="persona"] {
   width: 10rem;
   object-fit: cover;
 }
+
+img[alt="caption"] {
+  width: 20rem;
+  object-fit: cover;
+}
