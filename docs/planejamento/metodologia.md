@@ -98,3 +98,4 @@ Exemplo:
 | 0.2    | 16/08/2021 | Adicionando XP e Pair Programming         | Juliana      |
 | 0.3    | 16/08/2021 | Adicionando Scrum e Kanban                | Juliana      |
 | 0.4    | 20/08/2021 | Correções na apresentação da documentação | Paulo Victor |
+| 0.4    | 24/08/2021 | Criação de política de branche e commits | Matheus Afonso |

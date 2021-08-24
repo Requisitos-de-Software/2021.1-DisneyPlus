@@ -19,7 +19,7 @@ O Disney+ é um serviço de assinatura de streaming de vídeo, fornecendo filmes
 | <img src="./assets/thiago.jpeg" width="100">         | Thiago Mesquita    | thiagompc         |
 | <img src="./assets/vinicius.jpeg" width="100">       | Vinícius Saturnino | viniciussaturnino |
 
-## 4, Histórico de Versão
+## 4. Histórico de Versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
