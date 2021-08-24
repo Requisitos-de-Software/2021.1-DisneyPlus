@@ -20,9 +20,13 @@ extra_css:
 
 nav:
   - Início: index.md
+  - Apresentações:
+      - Apresentação 1: apresentações/apresentação-1.md
+      - Apresentação 2: apresentações/apresentação-2.md
   - Planejamento:
       - Metodologia: planejamento/metodologia.md
   - Elicitação:
+      - Brainstorming: elicitacao/brainstorm.md
       - Questionário: elicitacao/questionario.md
       - Resultado e Priorização: 
          - MoSCoW: elicitacao/moscow.md

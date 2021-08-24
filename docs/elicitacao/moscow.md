@@ -72,3 +72,4 @@ Existe um processo chamado priorização de requisitos, o qual ajuda a manter um
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 23/08/2021 | Priorização dos requisitos e Criação do documento   | Vinicius Saturnino e Matheus Afonso |
+
