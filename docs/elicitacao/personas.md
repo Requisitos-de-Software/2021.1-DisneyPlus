@@ -6,7 +6,7 @@ refinamentos sucessivos durante a investigação inicial do domínio de atividad
 
 ## 2. Personas
 ### Cláudia Sales Rocha
-![Cláudia Sales Rocha](../assets/claudia.png)
+![persona](../assets/claudia.png)
 <center>Imagem 1: Persona Cláudia Sales Rocha</center>
 
 - Idade: 28.
@@ -18,7 +18,7 @@ refinamentos sucessivos durante a investigação inicial do domínio de atividad
 Cláudia tem 28 anos, solteira, formada em Publicidade e Propaganda e trabalha em uma agência de publicidade. Cláudia mora sozinha em um apartamento em Águas Claras. Vale destacar que o equilíbrio entre a vida pessoal e profissional é uma prioridade e com isso, ela reassisti os filmes e séries antigos da Disney no qual passou a infância vendo. 
 
 ### Eduardo Souza Martins
-![Eduardo Souza Martins](../assets/eduardo.png)
+![persona](../assets/eduardo.png)
 <center>Imagem 2: Persona Eduardo Souza Martins</center>
 
 - Idade: 41.
@@ -30,7 +30,7 @@ Cláudia tem 28 anos, solteira, formada em Publicidade e Propaganda e trabalha e
 Eduardo tem 41 anos, mora no Guará I, é casado, formado em Arquitetura e Urbanismo e trabalha na tok&stok. Ele e sua esposa estão esperando um filho e já decoraram o quarto da criança com heróis da Marvel. Além disso, ele acompanha toda semana os lançamentos das séries exclusivas da Marvel na Disney+ e, quando possível, maratona os filmes com a sua esposa.
 
 ### Maria Júlia Fernandes
-![Maria Júlia Fernandes](../assets/maria.png)
+![persona](../assets/maria.png)
 <center>Imagem 3: Persona Maria Júlia Fernandes</center>
 
 - Idade: 53.
@@ -43,7 +43,7 @@ Maria tem 53 anos, mora na Asa Sul, é casada, tem duas filhas, é doutoranda em
 
 ## 3. Antipersona
 ### José Andrade Pereira
-![José Andrade Pereira](../assets/jose.png)
+![persona](../assets/jose.png)
 <center>Imagem 4: Persona José Andrade Pereira</center>
 
 - Idade: 65.

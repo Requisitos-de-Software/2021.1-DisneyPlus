@@ -18,3 +18,8 @@ img[alt="drawing"] {
   width: 3rem;
   object-fit: cover;
 }
+
+img[alt="persona"] {
+  width: 10rem;
+  object-fit: cover;
+}
