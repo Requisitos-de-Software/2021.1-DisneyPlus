@@ -1,25 +1,30 @@
 # MoSCoW
 
+## 1. Introdução
+
 Existe um processo chamado priorização de requisitos, o qual ajuda a manter uma entrega rápida do máximo de funcionalidades possíveis dentro das restrições do projeto. Para realizar esse processo foi escolhido a técnica MoSCoW. Suas letras maiúsculas indicam o esquema de priorização que deve ser seguido:
 
-## Metodologia
+## 2. Metodologia
 
 - **Must:** Significa que o requisito deve ser importante para a solução ser considerada um sucesso.
 - **Should:** Significa que o requisito é importante e deve ser implementado, mas sua implementação ou não, não irá interferir diretamente no sucesso da solução.
 - **Could:** Significa que o requisito indicado não precisa ser necessáriamente implementado, apenas se tiver tem e recursos.
 - **Won't:** Significa que o requisito indicado não precisa ser implementado naquele momento, podendo ser implementado nos futuros lançamentos.
 
-## Participantes
+## 3. Participantes
 
 - Matheus Afonso de Souza
 - Vinicius de Sousa Saturnino
+- Mateus Gomes do Nascimento
 
-## Resultado
+## 4. Resultado
 
-### Requisitos não funcionais
+### 4.1 Requisitos funcionais
+
+<center>
 
 | Número | Requisito                                                   | MoSCoW     |
-| ------ | ----------------------------------------------------------- | ---------- |
+| :------: | ----------------------------------------------------------- | :----------: |
 | RF1    | O usuário deve poder criar um perfil                        | Must       |
 | RF2    | O usuário deve poder realizar login                         | Must       |
 | RF3    | O usuário deve poder criar uma conta                        | Must       |
@@ -56,20 +61,31 @@ Existe um processo chamado priorização de requisitos, o qual ajuda a manter um
 | RF34   | O usuário deve poder entrar em um grupo watch               | Could      |
 | RF35   | O usuário deve poder restringir a criação de perfis         | Could      |
 
-### Requisitos não funcionais
+<figcaption>Tabela 1 - Requisitos Funcionais</figcaption>
+
+</center>
+
+### 4.2 Requisitos não funcionais
+
+<center>
 
 | Número | Requisito                                                     | MoSCoW     |
-| ------ | ------------------------------------------------------------- | ---------- |
-| RNF1   | O sistema deve ser responsivo                                 | Won't      |
-| RNF2   | O sistema deve ter autoplay                                   | Won't      |
+| :------: | ------------------------------------------------------------- | :----------: |
+| RNF1   | O sistema deve ser responsivo                                 | Should      |
+| RNF2   | O sistema deve ter autoplay                                   | Could      |
 | RNF3   | O sistema deve recomendar títulos semelhantes                 | Won't      |
 | RNF4   | O sistema deve recomendar títulos para o perfil               | Won't      |
-| RNF5   | O usuário deve poder assistir ao mesmo tempo que outra pessoa | Won't      |
-| RNF6   | O usuário deve poder assisir em qualquer dispositivo          | Won't      |
+| RNF5   | O usuário deve poder assistir ao mesmo tempo que outra pessoa | Should      |
+| RNF6   | O usuário deve poder assistir em qualquer dispositivo          | Should      |
 
-## Histórico de Versão
+<figcaption>Tabela 2 - Requisitos Não Funcionais</figcaption>
+
+</center>
+
+## 5. Histórico de Versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 23/08/2021 | Priorização dos requisitos e Criação do documento   | Vinicius Saturnino e Matheus Afonso |
+| 0.2    | 24/08/2021 | Alteração de prioridades e formatação do documento   | Mateus Gomes |
 
