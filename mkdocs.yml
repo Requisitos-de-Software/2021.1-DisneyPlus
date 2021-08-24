@@ -27,6 +27,7 @@ nav:
       - Metodologia: planejamento/metodologia.md
   - Elicitação:
       - Brainstorming: elicitacao/brainstorm.md
+      - Introspecção: elicitacao/introspeccao.md
       - Questionário: elicitacao/questionario.md
       - Resultado e Priorização: 
          - MoSCoW: elicitacao/moscow.md
