@@ -19,11 +19,14 @@ extra_css:
   - stylesheets/styles.css
 
 nav:
-  - Início: index.md
+  - Início: 'index.md'
+  - Apresentações:
+      - Apresentação 1: 'apresentações/apresentação1.md'
+      - Apresentação 2: 'apresentações/apresentação2.md'
   - Planejamento:
-      - Metodologia: planejamento/metodologia.md
+      - Metodologia: 'planejamento/metodologia.md'
   - Elicitação:
-      - Questionário: elicitacao/questionario.md
+      - Questionário: 'elicitacao/questionario.md'
       - Resultado e Priorização: 
-         - MoSCoW: elicitacao/moscow.md
-         - Resultado: elicitacao/resultado_elicitacao.md
+         - MoSCoW: 'elicitacao/moscow.md'
+         - Resultado: 'elicitacao/resultado_elicitacao.md'
