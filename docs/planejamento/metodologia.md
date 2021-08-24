@@ -122,7 +122,7 @@ Exemplo:
 
 > - Metodologia Ágil: O que é Scrum. **Programadores Brasil**, 2020. Disponível em: https://programadoresbrasil.com.br/2020/02/o-que-e-scrum-metodologia-agil/
 
-## 7. Histórico de versão
+## 8. Histórico de versão
 
 | Versão | Data       | Descrição                                 | Autor        |
 | ------ | ---------- | ----------------------------------------- | ------------ |
