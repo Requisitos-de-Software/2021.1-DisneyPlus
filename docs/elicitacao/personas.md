@@ -76,7 +76,7 @@ refinamentos sucessivos durante a investigação inicial do domínio de atividad
 - Escolaridade: Doutor em matemática
 - Expectativas: Deseja assistir jornais e canais de esporte.
 
-&emsp;&emsp;José Andrade Pereira mora em Sobradinho, Distrito Federal. É mestre em matemática e trabalha como professor universitário na Universidade de Brasília (UnB). José assisti os jornais do meio dia e da noite na televisão e acompanha os campeonatos de futebol brasileiro em canais por assinatura e plataformas pagas de streaming.
+&emsp;&emsp;José Andrade Pereira mora em Sobradinho, Distrito Federal. É doutor em matemática e trabalha como professor universitário na Universidade de Brasília (UnB). José assisti os jornais do meio dia e da noite na televisão e acompanha os campeonatos de futebol brasileiro em canais por assinatura e plataformas pagas de streaming.
 
 ## 4. Histórico de versão
 
