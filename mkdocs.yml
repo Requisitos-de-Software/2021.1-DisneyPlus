@@ -29,15 +29,17 @@ nav:
   - Elicitação:
       - Personas: elicitacao/personas.md
       - Técnicas:
-        - Brainstorming: elicitacao/tecnicas/brainstorm.md
-        - Observação: elicitacao/tecnicas/observacao.md
-        - Introspecção: elicitacao/tecnicas/introspeccao.md
-        - Questionário: elicitacao/tecnicas/questionario.md
-      - Priorização: 
-         - MoSCoW: elicitacao/priorizacao/moscow.md
+          - Brainstorming: elicitacao/tecnicas/brainstorm.md
+          - Observação: elicitacao/tecnicas/observacao.md
+          - Introspecção: elicitacao/tecnicas/introspeccao.md
+          - Questionário: elicitacao/tecnicas/questionario.md
+      - Priorização:
+          - MoSCoW: elicitacao/priorizacao/moscow.md
       - Resultado: elicitacao/resultado.md
+  - Modelagem:
+      - Cenários: modelagem/cenarios.md
   - Apresentações:
-    - Apresentação 1: apresentacoes/apresentacao1.md
-    - Apresentação 2: apresentacoes/apresentacao2.md
-         
+      - Apresentação 1: apresentacoes/apresentacao1.md
+      - Apresentação 2: apresentacoes/apresentacao2.md
+
 dev_addr: '0.0.0.0:8000'
