@@ -6,325 +6,311 @@
 
 ## 3. Léxicos
 
-### Objeto
-
 ### L01 - Acessar
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Acessar |       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo         | Classificação |
+| ------ | ----- | ------- | --------         | ------------- |
+|Acessar |       |         |Conectar, entrar  | Verbo         |
 
 ### L02 - Assinatura
 
 | Léxico   | Noção | Impacto | Sinônimo | Classificação |
 | ------   | ----- | ------- | -------- | ------------- |
-|Assinatura|       |         |          |               |
+|Assinatura|       |         |Contrato  |               |
 
 ### L03 - Assistir
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Assistir|       |         |          |               |
+|Assistir|       |         |Ver       | Verbo         |
 
-### L04 - Autoplay
-
-| Léxico   | Noção | Impacto | Sinônimo | Classificação |
-| -------- | ----- | ------- | -------- | ------------- |
-|Autoplay  |       |         |          |               |
-
-### L05 - Conta
+### L04 - Conta
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Conta   |       |         |          |               |
+|Conta   |       |         |-         | Objeto        |
 
-### L06 - Controlar
+### L05 - Controlar
 
-| Léxico  | Noção | Impacto | Sinônimo | Classificação |
-| ------- | ----- | ------- | -------- | ------------- |
-|Controlar|       |         |          |               |
+| Léxico  | Noção | Impacto | Sinônimo          | Classificação |
+| ------- | ----- | ------- | --------          | ------------- |
+|Controlar|       |         |Comandar, coordenar| Verbo         |
 
-### L07 - Criar
+### L06 - Criar
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Criar   |       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo      | Classificação |
+| ------ | ----- | ------- | --------      | ------------- |
+|Criar   |       |         |Gerar, produzir| Verbo         |
 
-### L08 - Destaque
+### L07 - Destaque
 
-| Léxico  | Noção | Impacto | Sinônimo | Classificação |
-| ------  | ----- | ------- | -------- | ------------- |
-|Destaques|       |         |          |               |
+| Léxico  | Noção | Impacto | Sinônimo       | Classificação |
+| ------  | ----- | ------- | --------       | ------------- |
+|Destaque |       |         |Realce, ressalto|               |
 
-### L09 - Dispositivo
+### L08 - Dispositivo
 
-| Léxico    | Noção | Impacto | Sinônimo | Classificação |
-| --------- | ----- | ------- | -------- | ------------- |
-|Dispositivo|       |         |          |               |
+| Léxico    | Noção | Impacto | Sinônimo                  | Classificação |
+| --------- | ----- | ------- | --------                  | ------------- |
+|Dispositivo|       |         |Celular, computador, tablet| Objeto        |
 
-### L10 - Documentário
+### L09 - Documentário
 
 | Léxico     | Noção | Impacto | Sinônimo | Classificação |
 | ---------- | ----- | ------- | -------- | ------------- |
-|Documentário|       |         |          |               |
+|Documentário|       |         |-         | Objeto        |
 
-### L11 - Download
-
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|        |       |         |          |               |
-
-### L12 - Duração
+### L10 - Download
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Duração |       |         |          |               |
+|        |       |         |Baixar    | Verbo         |
 
-### L13 - Editar
-
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Editar  |       |         |          |               |
-
-### L14 - Episódio
+### L11 - Duração
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Episódio|       |         |          |               |
+|Duração |       |         |Tempo     |               |
 
-### L15 - Excluir
+### L12 - Editar
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Excluir |       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo          | Classificação |
+| ------ | ----- | ------- | --------          | ------------- |
+|Editar  |       |         |Personalizar, mudar| Verbo         |
 
-### L16 - Explorar
-
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Explorar|       |         |          |               |
-
-### L17 - Extra
+### L13 - Episódio
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Extra   |       |         |          |               |
+|Episódio|       |         |Capítulo  | Objeto        |
 
-### L18 - Faixa Etária
-
-| Léxico     | Noção | Impacto | Sinônimo | Classificação |
-| ---------- | ----- | ------- | -------- | ------------- |
-|Faixa Etária|       |         |          |               |
-
-### L19 - Filtrar
+### L14 - Excluir
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Filtrar |       |         |          |               |
+|Excluir |       |         |Deletar   | Verbo         |
 
-### L20 - Filme
-
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Filme   |       |         |          |               |
-
-### L21 - Gênero
+### L15 - Explorar
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Gênero  |       |         |          |               |
+|Explorar|       |         |Descobrir | Verbo         |
 
-### L22 - Grupo watch
+### L16 - Extra
+
+| Léxico | Noção | Impacto | Sinônimo              | Classificação |
+| ------ | ----- | ------- | --------              | ------------- |
+|Extra   |       |         |Adicional, complementar|               |
+
+### L17 - Faixa Etária
+
+| Léxico     | Noção | Impacto | Sinônimo               | Classificação |
+| ---------- | ----- | ------- | --------               | ------------- |
+|Faixa Etária|       |         |Classificação indicativa|               |
+
+### L18 - Filtrar
+
+| Léxico | Noção | Impacto | Sinônimo | Classificação |
+| ------ | ----- | ------- | -------- | ------------- |
+|Filtrar |       |         |Escolher  | Verbo         |
+
+### L19 - Filme
+
+| Léxico | Noção | Impacto | Sinônimo                            | Classificação |
+| ------ | ----- | ------- | --------                            | ------------- |
+|Filme   |       |         |Vídeo, longa-metragem, curta-metragem| Objeto        |
+
+### L20 - Gênero
+
+| Léxico | Noção | Impacto | Sinônimo           | Classificação |
+| ------ | ----- | ------- | --------           | ------------- |
+|Gênero  |       |         |Categoria, variedade|               |
+
+### L21 - Grupo watch
 
 | Léxico    | Noção | Impacto | Sinônimo | Classificação |
 | --------- | ----- | ------- | -------- | ------------- |
-|Grupo watch|       |         |          |               |
+|Grupo watch|       |         |-         | Objeto        |
 
-### L23 - Idioma
+### L22 - Idioma
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Idioma  |       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo      | Classificação |
+| ------ | ----- | ------- | --------      | ------------- |
+|Idioma  |       |         |Língua, dialeto|               |
 
-### L24 - Legenda
-
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Legenda |       |         |          |               |
-
-### L25 - Lista
+### L23 - Legenda
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Lista   |       |         |          |               |
+|Legenda |       |         |Letreiro  |               |
 
-### L26 - Login
-
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Login   |       |         |          |               |
-
-### L27 - Logout
+### L24 - Lista
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Logout  |       |         |          |               |
+|Lista   |       |         |Listagem  | Objeto        |
 
-### L28 - Novidades
+### L25 - Login
+
+| Léxico | Noção | Impacto | Sinônimo      | Classificação |
+| ------ | ----- | ------- | --------      | ------------- |
+|Login   |       |         |Entrar, acessar| Verbo         |
+
+### L26 - Logout
+
+| Léxico | Noção | Impacto | Sinônimo | Classificação |
+| ------ | ----- | ------- | -------- | ------------- |
+|Logout  |       |         |Sair      | Verbo         |
+
+### L27 - Novidades
+
+| Léxico  | Noção | Impacto | Sinônimo    | Classificação |
+| ------- | ----- | ------- | --------    | ------------- |
+|Novidades|       |         |Novo, inédito| Objeto        |
+
+### L28 - Original
+
+| Léxico  | Noção | Impacto | Sinônimo          | Classificação |
+| ------- | ----- | ------- | --------          | ------------- |
+|Original |       |         |Originário, próprio| Objeto        |
+
+### L29 - Pagamento
 
 | Léxico  | Noção | Impacto | Sinônimo | Classificação |
 | ------- | ----- | ------- | -------- | ------------- |
-|Novidades|       |         |          |               |
+|Pagamento|       |         |Cobrança  |               |
 
-### L29 - Originais
-
-| Léxico  | Noção | Impacto | Sinônimo | Classificação |
-| ------- | ----- | ------- | -------- | ------------- |
-|Originais|       |         |          |               |
-
-### L30 - Pagamento
-
-| Léxico  | Noção | Impacto | Sinônimo | Classificação |
-| ------- | ----- | ------- | -------- | ------------- |
-|Pagamento|       |         |          |               |
-
-### L31 - Perfil
+### L30 - Perfil
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Perfil  |       |         |          |               |
+|Perfil  |       |         |-         | Objeto        |
 
-### L32 - Perfil Infantil
+### L31 - Perfil Infantil
 
 | Léxico        | Noção | Impacto | Sinônimo | Classificação |
 | ------------- | ----- | ------- | -------- | ------------- |
-|Perfil Infantil|       |         |          |               |
+|Perfil Infantil|       |         | -        | Objeto        |
 
-### L33 - Pesquisar
+### L32 - Pesquisar
 
-| Léxico  | Noção | Impacto | Sinônimo | Classificação |
-| ------- | ----- | ------- | -------- | ------------- |
-|Pesquisar|       |         |          |               |
+| Léxico  | Noção | Impacto | Sinônimo       | Classificação |
+| ------- | ----- | ------- | --------       | ------------- |
+|Pesquisar|       |         |Buscar, explorar| Verbo         |
 
-### L34 - Pin
+### L33 - Pin
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Pin     |       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo                             | Classificação |
+| ------ | ----- | ------- | --------                             | ------------- |
+|Pin     |       |         |Senha, código de identificação pessoal| Objeto        |
 
-### L35 - Recomendado
+### L34 - Recomendado
 
 | Léxico    | Noção | Impacto | Sinônimo | Classificação |
 | --------- | ----- | ------- | -------- | ------------- |
-|Recomendado|       |         |          |               |
+|Recomendado|       |         |Sugestão  |               |
 
-### L36 - Renovar
+### L35 - Renovar
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Renovar |       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo   | Classificação |
+| ------ | ----- | ------- | --------   | ------------- |
+|Renovar |       |         |Restabelecer| Verbo         |
 
-### L37 - Reproduzir automaticamente
+### L36 - Reprodução automática
 
 | Léxico                   | Noção | Impacto | Sinônimo | Classificação |
 | ------                   | ----- | ------- | -------- | ------------- |
 |Reproduzir automaticamente|       |         |          |               |
 
-### L38 - Responsivo
+### L37 - Responsividade 
 
-| Léxico   | Noção | Impacto | Sinônimo | Classificação |
-| -------- | ----- | ------- | -------- | ------------- |
-|Responsivo|       |         |          |               |
+| Léxico       | Noção | Impacto | Sinônimo | Classificação |
+| ------------ | ----- | ------- | -------- | ------------- |
+|Responsividade|       |         |-         |               |
 
-### L39 - Retomar
+### L38 - Retomar
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Retomar |       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo            | Classificação |
+| ------ | ----- | ------- | --------            | ------------- |
+|Retomar |       |         |Continuar, prosseguir| Verbo         |
 
-### L40 - Sair
+### L39 - Sair
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Sair    |       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo                  | Classificação |
+| ------ | ----- | ------- | --------                  | ------------- |
+|Sair    |       |         |Retirar-se, desvencilhar-se| Verbo         |
 
-### L41 - Segundo plano
+### L40 - Segundo plano
 
 | Léxico      | Noção | Impacto | Sinônimo | Classificação |
 | ----------- | ----- | ------- | -------- | ------------- |
-|Segundo plano|       |         |          |               |
+|Segundo plano|       |         |-         |               |
 
-### L42 - Selecionar perfil
+### L41 - Selecionar perfil
 
-| Léxico          | Noção | Impacto | Sinônimo | Classificação |
-| --------------- | ----- | ------- | -------- | ------------- |
-|Selecionar perfil|       |         |          |               |
+| Léxico          | Noção | Impacto | Sinônimo      | Classificação |
+| --------------- | ----- | ------- | --------      | ------------- |
+|Selecionar perfil|       |         |Escolher perfil| Verbo         |
 
-### L43 - Senha
+### L42 - Senha
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Senha   |       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo                                    | Classificação |
+| ------ | ----- | ------- | --------                                    | ------------- |
+|Senha   |       |         |Palavra-chave, palavra-passe, chave de acesso| Objeto        |
 
-### L44 - Série
-
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Série   |       |         |          |               |
-
-### L45 - Sinopse
+### L43 - Série
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Sinopse |       |         |          |               |
+|Série   |       |         |Seriado   | Objeto        |
 
-### L46 - Sugestão
+### L44 - Sinopse
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Sugestão|       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo               | Classificação |
+| ------ | ----- | ------- | --------               | ------------- |
+|Sinopse |       |         |Resenha, resumo, síntese| Objeto        |
 
-### L47 - Stream
+### L45 - Streaming
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Stream  |       |         |          |               |
+| Léxico  | Noção | Impacto | Sinônimo     | Classificação |
+| ------  | ----- | ------- | --------     | ------------- |
+|Streaming|       |         |Fluxo de mídia| Objeto        |
 
-### L48 - Temporada
+### L46 - Temporada
 
 | Léxico  | Noção | Impacto | Sinônimo | Classificação |
 | ------- | ----- | ------- | -------- | ------------- |
-|Temporada|       |         |          |               |
+|Temporada|       |         |-         | Objeto        |
 
-### L49 - Tendência
+### L47 - Tendência
 
 | Léxico  | Noção | Impacto | Sinônimo | Classificação |
 | ------  | ----- | ------- | -------- | ------------- |
-|Tendência|       |         |          |               |
+|Tendência|       |         |Em alta   |               |
 
-### L50 - Trailer
-
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Trailer |       |         |          |               |
-
-### L51 - Títulos
+### L48 - Trailer
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Títulos |       |         |          |               |
+|Trailer |       |         |          | Objeto        |
 
-### L52 - Usuário
+### L49 - Título
 
-| Léxico | Noção | Impacto | Sinônimo | Classificação |
-| ------ | ----- | ------- | -------- | ------------- |
-|Usuário |       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo                    | Classificação |
+| ------ | ----- | ------- | --------                    | ------------- |
+|Título  |       |         |Filmes, séries, documentários| Objeto        |
 
-### L53 - Visualizar datalhes
+### L50 - Usuário
 
-| Léxico            | Noção | Impacto | Sinônimo | Classificação |
-| ------            | ----- | ------- | -------- | ------------- |
-|Visualizar datalhes|       |         |          |               |
+| Léxico | Noção | Impacto | Sinônimo          | Classificação |
+| ------ | ----- | ------- | --------          | ------------- |
+|Usuário |       |         |Utilizador, cliente| Objeto        |
+
+### L51 - Visualizar datalhes
+
+| Léxico            | Noção | Impacto | Sinônimo     | Classificação |
+| ------            | ----- | ------- | --------     | ------------- |
+|Visualizar datalhes|       |         |Olhar detalhes| Verbo         |
 
 
 ## 4. Bibliografia
