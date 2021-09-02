@@ -54,7 +54,7 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 | Léxico  | Noção | Impacto | Sinônimo       | Classificação |
 | ------  | ----- | ------- | --------       | ------------- |
-|Destaque |       |         |Realce, ressalto|               |
+|Destaque |Filtro para mostrar os títulos em alta.|O usuário poderá ver quais os títulos em alta do momento.|Realce, ressalto|               |
 
 ### L08 - Dispositivo
 
@@ -66,7 +66,7 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 | Léxico     | Noção | Impacto | Sinônimo | Classificação |
 | ---------- | ----- | ------- | -------- | ------------- |
-|Documentário|       |         |-         | Objeto        |
+|Documentário|Gênero de título que tem como objetivo a apresentação de uma visão da realidade por meio da tela|O usuário poderá assistir documentários presentes na Disney+.|-         | Objeto        |
 
 ### L10 - Download
 
@@ -78,7 +78,7 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Duração |       |         |Tempo     |Estado         |
+|Duração |Tempo de duração de um título.|O usuário pode visualizar o tempo de duração de um título da Disney+.|Tempo     |Estado         |
 
 ### L12 - Editar Perfil
 
@@ -90,7 +90,7 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Episódio|       |         |Capítulo  | Objeto        |
+|Episódio|Um episódio é uma parte de uma sequência de um corpo de trabalho cinematográfico.|O usuário poderá assistir um episódio de série da Disney+. </br>O usuário poderá assistir um episódio de documentário da Disney+.|Capítulo  | Objeto        |
 
 ### L14 - Excluir
 
@@ -102,90 +102,90 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Explorar|       |         |Descobrir | Verbo         |
+|Explorar|Opção presente quando seleciona a opção de pesquisar sem ter digitado nada.|O usuário poderá navegar pelos títulos apresentados na função explorar.|Descobrir | Verbo         |
 
 ### L16 - Extra
 | Léxico | Noção | Impacto | Sinônimo              | Classificação |
 | ------ | ----- | ------- | --------              | ------------- |
-|Extra   |       |         |Adicional, complementar|               |
+|Extra   |Função para exibição de extras de um determinado título.|O usuário poderá visualizar os trailers de um determinado título.</br>O usuário poderá visualizar os conteúdos adicionais de um determinado título.|Adicional, complementar|               |
 
 ### L17 - Faixa Etária
 
 | Léxico     | Noção | Impacto | Sinônimo               | Classificação |
 | ---------- | ----- | ------- | --------               | ------------- |
-|Faixa Etária|       |         |Classificação indicativa|Estado         |
+|Faixa Etária|Informação prestada às famílias sobre a faixa etária para a qual obras audiovisuais não se recomendam.|O usuário poderá visualizar qual é a faixa etária de um determinado título.|Classificação indicativa|Estado         |
 
 ### L18 - Filtrar
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Filtrar |       |         |Escolher  | Verbo         |
+|Filtrar |Entende-se por filtro algo que seleciona o que passa por ele.|O usuário poderá filtrar filmes de acordo com o gênero.</br>O usuário poderá filtrar séries de acordo com o gênero.</br>O usuário poderá filtrar documentários de acordo com o gênero.|Escolher  | Verbo         |
 
 ### L19 - Filme
 
 | Léxico | Noção | Impacto | Sinônimo                            | Classificação |
 | ------ | ----- | ------- | --------                            | ------------- |
-|Filme   |       |         |Vídeo, longa-metragem, curta-metragem| Objeto        |
+|Filme   |Sequência de cenas projetadas.|O usuário poderá assistir os filmes presentes na Disney+.|Vídeo, longa-metragem, curta-metragem| Objeto        |
 
 ### L20 - Gênero
 
 | Léxico | Noção | Impacto | Sinônimo           | Classificação |
 | ------ | ----- | ------- | --------           | ------------- |
-|Gênero  |       |         |Categoria, variedade|Estado         |
+|Gênero  |Categoria que uma série, documentário ou filme está inserido.|O usuário poderá buscar por um gênero específico.</br>O usuário pode visulizar qual gênero um determinado título pertence.| Categoria, variedade|Estado         |
 
 ### L21 - Grupo watch
 
 | Léxico    | Noção | Impacto | Sinônimo | Classificação |
 | --------- | ----- | ------- | -------- | ------------- |
-|Grupo watch|       |         |-         | Objeto        |
+|Grupo watch|Função para assistir títulos da Disney em conjunto.|O usuário poderá criar um grupo watch.</br>O usuário poderá convidar até 6 pessoas para seu grupo watch.|-         | Objeto        |
 
 ### L22 - Idioma
 
 | Léxico | Noção | Impacto | Sinônimo      | Classificação |
 | ------ | ----- | ------- | --------      | ------------- |
-|Idioma  |       |         |Língua, dialeto|               |
+|Idioma  |O idioma é uma língua própria de um povo.|O usuário poderá escolher o idioma da dublagem.</br>O usuário poderá escolher o idioma da legenda.|Língua, dialeto|Estado|
 
 ### L23 - Legenda
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Legenda |       |         |Letreiro  |               |
+|Legenda |Textos que acompanham uma imagem, conferindo-lhe um significado ou esclarecimento.|O usuário poderá ativar as legendas.</br>O usuário poderá personalizar as legendas.|Letreiro  |Objeto|
 
 ### L24 - Lista
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Lista   |       |         |Listagem  | Objeto        |
+|Lista   |Coleção de títulos selecionados pelo usuário.|O usuário poderá adicionar títulos a sua lista.</br>O usuário poderá remover títulos da sua lista.</br>O usuário poderá assistir os títulos da sua lista.|Listagem  | Objeto        |
 
 ### L25 - Login
 
 | Léxico | Noção | Impacto | Sinônimo      | Classificação |
 | ------ | ----- | ------- | --------      | ------------- |
-|Login   |       |         |Entrar, acessar| Verbo         |
+|Login   |Entrar na conta|O usuário precisará fazer login para acessar os conteúdos presentes na plataforma da Disney+.|Entrar, acessar| Verbo         |
 
 ### L26 - Logout
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Logout  |       |         |Sair      | Verbo         |
+|Logout  |Sair da conta|O usuário precisará fazer logout para siar de uma conta da Disney+.|Sair      | Verbo         |
 
 ### L27 - Novidades
 
 | Léxico  | Noção | Impacto | Sinônimo    | Classificação |
 | ------- | ----- | ------- | --------    | ------------- |
-|Novidades|       |         |Novo, inédito| Objeto        |
+|Novidades|Categoria que mostra quais títulos foram adicionados recentemente na plataforma da Disney+.|O usuário poderá conferir quais os novos títulos adicionados na plataforma da Disney+.|Novo, inédito| Objeto        |
 
 ### L28 - Original
 
 | Léxico  | Noção | Impacto | Sinônimo          | Classificação |
 | ------- | ----- | ------- | --------          | ------------- |
-|Original |       |         |Originário, próprio| Objeto        |
+|Original |Categoria para diferenciar títulos exclusivos da plataforma da Disney+.|O usuário poderá assistir aos títulos originais da Disney+.|Originário, próprio| Objeto        |
 
 ### L29 - Pagamento
 
 | Léxico  | Noção | Impacto | Sinônimo | Classificação |
 | ------- | ----- | ------- | -------- | ------------- |
-|Pagamento|       |         |Cobrança  |               |
+|Pagamento|Pagar a assinatura da Disney+.|O usuário poderá pagar a assinatura da Disney+.</br>O usuário poderá mudar a forma de pagamento.|Cobrança  |Ação|
 
 ### L30 - Perfil
 
@@ -203,55 +203,55 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 | Léxico  | Noção | Impacto | Sinônimo       | Classificação |
 | ------- | ----- | ------- | --------       | ------------- |
-|Pesquisar|       |         |Buscar, explorar| Verbo         |
+|Pesquisar|Buscar título ou gênero.|O usuário poderá pesquisar por um título específico.</br>O usuário poderá pesquisar por títulos similares.</br>O usuário poderá pesquisar por um gênero específico.|Buscar, explorar| Verbo         |
 
 ### L33 - Pin
 
 | Léxico | Noção | Impacto | Sinônimo                             | Classificação |
 | ------ | ----- | ------- | --------                             | ------------- |
-|Pin     |       |         |Senha, código de identificação pessoal| Objeto        |
+|Pin     |Senha para acessar um perfil.|O usuário poderá colocar um pin em um determinado perfil.</br>O usuário necessitará digitir um pin para acessar um perfil que possua pin.|Senha, código de identificação pessoal| Objeto        |
 
 ### L34 - Recomendado
 
 | Léxico    | Noção | Impacto | Sinônimo | Classificação |
 | --------- | ----- | ------- | -------- | ------------- |
-|Recomendado|       |         |Sugestão  |               |
+|Recomendado|Títulos selecionados de acordo com os gostos do seu perfil.|O usuário poderá visualizar títulos recomendados para ele.</br>O usuário poderá assistir títulos recomendados para ele.|Sugestão  |               |
 
 ### L35 - Renovar
 
 | Léxico | Noção | Impacto | Sinônimo   | Classificação |
 | ------ | ----- | ------- | --------   | ------------- |
-|Renovar |       |         |Restabelecer| Verbo         |
+|Renovar |Renovar a assinatura da Disney+.|O usuário poderá renovar a sua assinatura da Disney+ para continuar usufruindo da plataforma.|Restabelecer| Verbo         |
 
 ### L36 - Reprodução automática
 
 | Léxico                   | Noção | Impacto | Sinônimo | Classificação |
 | ------                   | ----- | ------- | -------- | ------------- |
-|Reproduzir automaticamente|       |         |          |               |
+|Reproduzir automaticamente|Funcionalidade que permite que comece outro título após o termino do título atual.|O reprodutor poderá passar automaticamente para um novo título.|-|Estado|
 
 ### L37 - Responsividade 
 
 | Léxico       | Noção | Impacto | Sinônimo | Classificação |
 | ------------ | ----- | ------- | -------- | ------------- |
-|Responsividade|       |         |-         |               |
+|Responsividade|Adaptação ao tamanho da página de acordo com a tela do dispositivo utilizado.|A plataforma da Disney+ se adequará ao dispositivo utilizado.|-         |Estado|
 
 ### L38 - Retomar
 
 | Léxico | Noção | Impacto | Sinônimo            | Classificação |
 | ------ | ----- | ------- | --------            | ------------- |
-|Retomar |       |         |Continuar, prosseguir| Verbo         |
+|Retomar |Continuar um título.|O usuário poderá retomar um título de onde parou.</br>O usuário poderá retomar um título após pausá-lo.|Continuar, prosseguir| Verbo         |
 
 ### L39 - Sair
 
 | Léxico | Noção | Impacto | Sinônimo                  | Classificação |
 | ------ | ----- | ------- | --------                  | ------------- |
-|Sair    |       |         |Retirar-se, desvencilhar-se| Verbo         |
+|Sair    |Sair da conta ou perfil.|O usuário poderá sair do perfil que está.</br>O usuário pode sair da conta que está.|Retirar-se, desvencilhar-se| Verbo         |
 
 ### L40 - Segundo plano
 
 | Léxico      | Noção | Impacto | Sinônimo | Classificação |
 | ----------- | ----- | ------- | -------- | ------------- |
-|Segundo plano|       |         |-         |               |
+|Segundo plano|A reprodução não para mesmo com o dispositivo em repouso.|O usuário poderá continuar vendo e escuntando mesmo com o dispositivo em repouso.|-         |Estado|
 
 ### L41 - Selecionar perfil
 
@@ -263,61 +263,61 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 | Léxico | Noção | Impacto | Sinônimo                                    | Classificação |
 | ------ | ----- | ------- | --------                                    | ------------- |
-|Senha   |       |         |Palavra-chave, palavra-passe, chave de acesso| Objeto        |
+|Senha   |Autenticador da conta.|O usuário precisará de uma senha para acessar a conta da Disney+.</br>O usuário poderá alterar a senha da sua conta da Disney+.|Palavra-chave, palavra-passe, chave de acesso| Objeto        |
 
 ### L43 - Série
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Série   |       |         |Seriado   | Objeto        |
+|Série   |Obra televisiva ou cinematográfica dividida em episódios.|O usuário poderá assistir séries presentes na Disney+.|Seriado   | Objeto        |
 
 ### L44 - Sinopse
 
 | Léxico | Noção | Impacto | Sinônimo               | Classificação |
 | ------ | ----- | ------- | --------               | ------------- |
-|Sinopse |       |         |Resenha, resumo, síntese| Objeto        |
+|Sinopse |Descrição sintética da ideia do filme, série ou documentário.|O usuário poderá visualizar a sinopse do filme.</br>O usuário poderá visualizar a sinopse da série.</br>O usuário poderá visualizar a sinopse do documentário.</br>|Resenha, resumo, síntese| Objeto        |
 
 ### L45 - Streaming
 
 | Léxico  | Noção | Impacto | Sinônimo     | Classificação |
 | ------  | ----- | ------- | --------     | ------------- |
-|Streaming|       |         |Fluxo de mídia| Objeto        |
+|Streaming|Fluxo de dados.|O usuário poderá assistir os títulos da Disney+ por streaming (online).|Fluxo de mídia| Objeto        |
 
 ### L46 - Temporada
 
 | Léxico  | Noção | Impacto | Sinônimo | Classificação |
 | ------- | ----- | ------- | -------- | ------------- |
-|Temporada|       |         |-         | Objeto        |
+|Temporada|Sequência de episódios.|O usuário poderá assistir temporadas de séries.</br>O usuário poderá conferir quantas temporadas uma série tem.|-         | Objeto        |
 
 ### L47 - Tendência
 
 | Léxico  | Noção | Impacto | Sinônimo | Classificação |
 | ------  | ----- | ------- | -------- | ------------- |
-|Tendência|       |         |Em alta   |               |
+|Tendência|Categoria que exibe quais as tendência do momento.|O usuário poderá visualizar títulos em tendência no momento.</br>O usuário poderá assistir títulos em tendência no momento.|Em alta   |               |
 
 ### L48 - Trailer
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Trailer |       |         |          | Objeto        |
+|Trailer |Pequeno trecho de um título. |O usuário poderá assistir trailer de séries.</br>O usuário poderá assistir trailer de filmes.</br>O usuário poderá assistir trailer de documentários.</br>|          | Objeto        |
 
 ### L49 - Título
 
 | Léxico | Noção | Impacto | Sinônimo                    | Classificação |
 | ------ | ----- | ------- | --------                    | ------------- |
-|Título  |       |         |Filmes, séries, documentários| Objeto        |
+|Título  |Conteúdo presente na Disney+.|O usuário pode assistir títulos.</br>O usuário pode buscar títulos.</br>O usuário pode adicionar títulos a sua lista.|Filmes, séries, documentários| Objeto        |
 
 ### L50 - Usuário
 
 | Léxico | Noção | Impacto | Sinônimo          | Classificação |
 | ------ | ----- | ------- | --------          | ------------- |
-|Usuário |       |         |Utilizador, cliente| Objeto        |
+|Usuário |Pessoa(s) que utiliza a plataforma da Disney+.|Pessoa(s) que poderá usufrir das funcionalidades da Disne+.|Utilizador, cliente| Objeto        |
 
 ### L51 - Visualizar datalhes
 
 | Léxico            | Noção | Impacto | Sinônimo     | Classificação |
 | ------            | ----- | ------- | --------     | ------------- |
-|Visualizar datalhes|       |         |Olhar detalhes| Verbo         |
+|Visualizar datalhes|Função que mostra os detalhes de um título.|O usuário poderá ver a sinopse do título.</br>O usuário poderá ver a duração do título.</br>O usuário poderá ver a data de lançamento do título.</br>O usuário poderá ver o gênero do título.</br>O usuário poderá ver o diretor do título.</br>O usuário poderá ver o elenco do título.</br>|Olhar detalhes| Verbo         |
 
 
 ## 4. Bibliografia
@@ -326,6 +326,9 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 ## 4. Histórico de versão
 
-| Versão | Data       | Descrição                      | Autor        |
-| ------ | ---------- | ------------------------------ | ------------ |
-| 0.1    | 01/09/2021 | Criação dos primeiros léxicos  | Juliana      |
+| Versão | Data       | Descrição                  | Autor        |
+| ------ | ---------- | ---------------------------| ------------ |
+| 0.1    | 01/09/2021 | Idenficação dos léxicos    | Juliana      |
+| 0.2    | 01/09/2021 | Classificação dos léxicos  | Juliana      |
+| 0.3    | 01/09/2021 | Descrição dos léxicos      | Juliana      |
+| 0.4    | 02/09/2021 | Descrição dos léxicos      | Juliana      |
