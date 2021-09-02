@@ -82,7 +82,7 @@
 | U | Usabilidade | RNF3, RNF4 |
 | R | Confiabilidade | - |
 | P | Performance | - |
-| S | Suportabilidade    | RNF1, RNF6 |
+| S | Suportabilidade | RNF1, RNF6 |
 | + | Outros | - |
 
 <figcaption>Tabela 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
