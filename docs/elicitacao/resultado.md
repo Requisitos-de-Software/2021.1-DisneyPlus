@@ -34,10 +34,10 @@
 | RF15 | O usuário deve poder renovar sua assinatura | Brainstorm |
 | RF16 | O usuário deve poder alterar a legenda | Instrospeção e questionário |
 | RF17 | O usuário deve poder filtrar títulos | Brainstorm |
-| RF18 | O usuário deve poder baixar um título para asssitir offline | Brainstorm |
-| RF19 | O usuário deve poder Mudar dados de pagamento | Brainstorm |
+| RF18 | O usuário deve poder baixar um título para assitir offline | Brainstorm |
+| RF19 | O usuário deve poder mudar dados de pagamento | Brainstorm |
 | RF20 | O usuário deve poder marcar títulos para assistir depois | Observação |
-| RF21 | O usuário deve poder reproduzir automáticamente | Brainstorm |
+| RF21 | O usuário deve poder reproduzir automaticamente | Brainstorm |
 | RF22 | O usuário deve poder criar uma lista | Brainstorm |
 | RF23 | O usuário deve poder alterar o idioma | Instrospeção e questionário |
 | RF24 | O usuário deve poder pular a abertura | Instrospeção e questionário |
