@@ -324,7 +324,7 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
 
-## 4. Histórico de versão
+## 5. Histórico de versão
 
 | Versão | Data       | Descrição                  | Autor        |
 | ------ | ---------- | ---------------------------| ------------ |
