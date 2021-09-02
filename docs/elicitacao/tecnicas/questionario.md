@@ -23,6 +23,7 @@
 
 <figcaption>Imagem 1: Questão 1 do questionário.</figcaption>
 </center>
+&emsp;&emsp;Nosso primeiro passo foi conhecer o público e conseguir filtrar quem estivesse respondendo de forma a evitar que quem não é usuário responda as questões seguintes de forma aleatória prejudicando nossa análise dos resultados.
 
 ### Questão 2
 
@@ -31,6 +32,7 @@
 
 <figcaption>Imagem 2: Questão 2 do questionário.</figcaption>
 </center>
+&emsp;&emsp;Outro ponto importante é conhecer a idade do público da aplicação. Por isso, decidimos adicionar essa pergunta. Já é possível perceber que o público entre 19-26 anos é o que mais utiliza a plataforma.
 
 ### Questão 3
 
@@ -39,6 +41,7 @@
 
 <figcaption>Imagem 3: Questão 3 do questionário.</figcaption>
 </center>
+&emsp;&emsp;O objetivo dessa pergunta foi conseguirmos mapear os requisitos baseados no que motiva os usuários a assinarem a plataforma. Com isso, conseguimos priorizar requisitos no futuro baseado naquilo que o público da pesquisa definiu ser mais importante.
 
 ### Questão 4
 
@@ -47,6 +50,7 @@
 
 <figcaption>Imagem 4: Questão 4 do questionário.</figcaption>
 </center>
+&emsp;&emsp;Através dessa pergunta será possível modelarmos o projeto de forma a se encaixar melhor no formato de utilização dos assinantes.
 
 ### Questão 5
 
@@ -55,6 +59,7 @@
 
 <figcaption>Imagem 5: Questão 5 do questionário.</figcaption>
 </center>
+&emsp;&emsp;Para conseguirmos modelar a plataforma de forma a agradar os assinantes, decidimos adicionar essa pergunta de forma a conseguirmos ter uma visão completa da experiência do assinante na plataforma, sendo 1 quase não coincidem e 5 coincidem muito.
 
 ### Questão 6
 
@@ -63,6 +68,7 @@
 
 <figcaption>Imagem 6: Questão 6 do questionário.</figcaption>
 </center>
+&emsp;&emsp;Nessa questão conseguimos uma visão mais detalhada dos requisitos necessários e através da porcentagem de escolha dos usuários, é possível priorizarmos o que trará mais valor.
 
 ### Questão 7
 
@@ -71,6 +77,7 @@
 
 <figcaption>Imagem 7: Questão 7 do questionário.</figcaption>
 </center>
+&emsp;&emsp;A vantagem dessa pergunta é que conseguimos entender se o produto final existente está conseguimos corresponder as expectativas dos usuários ou não.
 
 ### Questão 8
 
@@ -79,6 +86,7 @@
 
 <figcaption>Imagem 8: Questão 8 do questionário.</figcaption>
 </center>
+&emsp;&emsp;Essa questão é muito importante que nos permite analisar a experiência do usuário e se existe um grande número de assinantes que estão ou não tendo uma boa experiência.
 
 ### Questão 9
 
@@ -87,6 +95,7 @@
 
 <figcaption>Imagem 9: Questão 9 do questionário.</figcaption>
 </center>
+&emsp;&emsp;Através dessa pergunta conseguimos mapear aquilo que não existe atualmente na plataforma e que seria importante adicionarmos na lista de requisitos. Apenas conhecendo as dores dos assinantes é que conseguiremos focar no que irá gerar mais valor para os assinantes.
 
 ### Questão 10
 
@@ -96,10 +105,13 @@
 <figcaption>Imagem 10: Questão 10 do questionário.</figcaption>
 </center>
 
+&emsp;&emsp;Por fim, decidimos analisar a satisfação do usuário com relação a UI e UX da plataforma, sendo 1 pouco satisfeito e 5 muito satisfeito.
+
 ## 4. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 20/08/2021 | Criação da documentação relacionada ao questionário | Paulo Victor |
 | 0.2    | 22/08/2021 | Adiciona definição, metodologia e questões          | Paulo Victor |
-| 0.3    | 24/08/2021 | Adição de legendas e correções na formatação          | Mateus Gomes |
+| 0.3    | 24/08/2021 | Adição de legendas e correções na formatação        | Mateus Gomes |
+| 0.4    | 02/09/2021 | Adição de descrição sobre cada pergunta             | Paulo Victor |
