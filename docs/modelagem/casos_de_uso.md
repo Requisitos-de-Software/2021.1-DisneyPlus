@@ -75,7 +75,11 @@
 
 ### 3.1 Fluxo de conta
 
+<center>
 ![diagram](../../assets/casos_de_uso/diagram-1.png)
+
+<figcaption>Imagem 5: Diagrama do fluxo de conta.</figcaption>
+</center>
 
 ## 4. Bibliografia
 
