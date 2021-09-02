@@ -2,9 +2,8 @@
 
 ## 1. Introdução
 
-## 2. Metodologia
-
-## 3. Cenários
+No campo da Engenharia de Requisitos, uma das principais etapas no processo de Modelagem é a criação de Cenários, que é uma técnica para melhor compreensão sobre o funcionamento da interação entre sistema e o usuário. Essa é a técnica abordada pela equipe nesse documento em específico.
+## 2. Cenários
 
 &emsp;&emsp;Após a definição dos requisitos por parte da equipe, elaboramos os seguintes cenários de forma a contemplar todos os requisitos funcionais estabelecidos.
 
@@ -140,7 +139,7 @@
 | **Episódios**       | - Assinante leva o cursor para cima da timeline do título e clica em algum ponto para definir a partir de onde deseja que seja reproduzido ou usuário arrasta o dedo, em dispositivos móveis, pela timeline até chegar ao momento no qual deseja que seja reproduzido. |
 | **Rastreabilidade** | RF12                                                                                                                                                                                                                                                                   |
 
-## 4. Bibliografia
+## 3. Bibliografia
 
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
 
@@ -149,3 +148,4 @@
 | Versão | Data       | Descrição                      | Autor        |
 | ------ | ---------- | ------------------------------ | ------------ |
 | 0.1    | 29/08/2021 | Criação dos primeiros cenários | Paulo Victor |
+| 0.2    | 02/09/2021 | Adição da descrição  | Vinicius Saturnino |
