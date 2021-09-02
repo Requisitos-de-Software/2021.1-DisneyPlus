@@ -39,6 +39,8 @@ nav:
   - Modelagem:
       - Especificação Suplementar: modelagem/especificacao_suplementar.md
       - Cenários: modelagem/cenarios.md
+      - Léxicos: modelagem/lexicos.md
+      - Casos de Uso: modelagem/casos_de_uso.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
