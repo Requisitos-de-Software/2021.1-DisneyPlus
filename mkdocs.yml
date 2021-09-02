@@ -37,6 +37,7 @@ nav:
           - MoSCoW: elicitacao/priorizacao/moscow.md
       - Resultado: elicitacao/resultado.md
   - Modelagem:
+      - Especificação Suplementar: especificacao_suplementar.md
       - Cenários: modelagem/cenarios.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
