@@ -73,26 +73,28 @@
 
 ## 3. Resultado
 &emsp;&emsp;Como resultado da categarização dos requisitos não funcionais levantados na etapa de elicitação de requisitos:
+
 <center>
 
-|Sigla| Categoria|Requisitos                                      |
+| Sigla | Categoria | Requisitos                                      |
 |:------: | :------: | :--------------------------------------------------: |
-F | Funcionalidade   | RNF2, RNF5 |
-|U | Usabilidade   | RNF3, RNF4     |
-|R| Confiabilidade   | -    |
-|P| Performance    | -     |
-|S| Suportabilidade    | RNF1, RNF6|
-|+| Outros    | -   |
+| F | Funcionalidade   | RNF2, RNF5 |
+| U | Usabilidade | RNF3, RNF4 |
+| R | Confiabilidade | - |
+| P | Performance | - |
+| S | Suportabilidade    | RNF1, RNF6 |
+| + | Outros | - |
 
 <figcaption>Tabela 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
 
 </center>
+
 <br>
 
 ## 4. Gráfico da categorização dos requisitos não funcionais pelo modelo FURPS+
 <center>
 
-![persona](../assets/EspecificacaoSuplementar.png)
+![grafico](../assets/EspecificacaoSuplementar.png)
 <figcaption>Gráfico 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
 
 </center>
@@ -103,8 +105,9 @@ F | Funcionalidade   | RNF2, RNF5 |
 > - https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html
 > - https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/requirements_62E28784.html
 
-## 4. Histórico de versão
+## 5. Histórico de versão
 
 | Versão | Data       | Descrição                      | Autor        |
 | ------ | ---------- | ------------------------------ | ------------ |
 | 0.1    | 01/09/2021 | Criação do documento | Thiago Mesquita |
+| 0.2    | 02/09/2021 | Correções na formatação | Mateus Gomes |
