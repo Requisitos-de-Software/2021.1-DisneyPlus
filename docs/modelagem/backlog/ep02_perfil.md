@@ -83,3 +83,10 @@
 #### Criterios de aceitação
 - O usuário deve limitar a criação de perfis nas configurações.
 - Deve limitar a criação de perfis.
+
+## Histórico de versão
+
+| Versão | Data       | Descrição                        | Autor        |
+| ------ | ---------- | -------------------------------- | ------------ |
+| 0.1    | 11/09/2021 | Criação do documento de épicos | Matheus Afonso |
+| 0.2    | 11/09/2021 | Adição do histórico de versão | Matheus Afonso |

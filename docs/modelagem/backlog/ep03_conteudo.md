@@ -141,3 +141,10 @@
 #### Criterios de aceitação
 - O usuário deve entrar em um grupo watch.
 - Deve ingressar o usuário em um grupo watch.
+
+## Histórico de versão
+
+| Versão | Data       | Descrição                        | Autor        |
+| ------ | ---------- | -------------------------------- | ------------ |
+| 0.1    | 11/09/2021 | Criação do documento de épicos | Matheus Afonso |
+| 0.2    | 11/09/2021 | Adição do histórico de versão | Matheus Afonso |
