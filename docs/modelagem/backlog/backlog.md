@@ -67,6 +67,7 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 ## 4. Bibliografia
 
 >- WIEGERS, Karl; BEATTY, Joy. "Software Requirements". Microsoft Press, 2013.
+>- Artefato: Backlog do Produto. TRT9. Disponível em: https://www.trt9.jus.br/pds/Scrum/workproducts/product_backlog_68345C16.html. Acesso em: 10 de Setembro de 2021.
 >- FERREIRA, Avelino. Product Backlog: Épico, História de Usuário e Tarefas. K21, 2020. Disponível em: https://k21.global/blog/product-backlog-epico-historia-tarefas. Acesso em: 10 de Setembro de 2021.
 >- RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva.  Atlassian. Disponível em: https://www.atlassian.com/br/agile/scrum/backlogs. Acesso em: 10 de Setembro de 2021.
 
@@ -76,3 +77,4 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 | ------ | ---------- | -------------------------------- | ------------ |
 | 0.1    | 10/09/2021 | Criação das Histórias de Usuário | Paulo Victor |
 | 0.2    | 10/09/2021 | Adição da introdução, descrição sobre épicos e histórias de usuário e bibliografia | Thiago Mesquita |
+| 0.3    | 10/09/2021 | Adição de uma referência bibliogŕafica | Thiago Mesquita |
