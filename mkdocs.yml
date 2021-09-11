@@ -41,6 +41,7 @@ nav:
       - Cenários: modelagem/cenarios.md
       - Léxicos: modelagem/lexicos.md
       - Casos de Uso: modelagem/casos_de_uso.md
+      - NFR Framework: modelagem/nfr_framework.md
       - Backlog:
           - Backlog do produto: modelagem/backlog/backlog.md
           - EP01 - Conta: modelagem/backlog/ep01_conta.md
