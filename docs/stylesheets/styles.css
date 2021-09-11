@@ -21,9 +21,6 @@ tr:nth-child(odd) {
 td,
 th {
   text-align: center !important;
-}
-
-td {
   vertical-align: middle !important;
 }
 
