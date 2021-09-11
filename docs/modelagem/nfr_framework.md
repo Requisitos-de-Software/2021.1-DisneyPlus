@@ -1,9 +1,9 @@
 # NFR Framework
 
 ## 1. Introdução
-&emsp;&emsp;O NFR Framework é uma implementação proposta por Chung na Universidade de Toronto, sendo essa uma representação sistemática e global de NFRs, abordando de uma maneira qualitativa e orientada a processos. Além disso, essa implementação representa o NFR como um softgoal, os quais são unidades básicas para representar requisitos não-funcionais.
+O NFR Framework é método de expressar e analisar Requisitos Não-Funcionais que foi proposto por Chung na Universidade de Toronto, sendo esse método uma representação sistemática e global de NFRs, abordando de uma maneira qualitativa e orientada a processos. Seu objetivo é ajudar os desenvolvedores a implementar soluções customizadas, levando em consideração as características dos campos e sistemas relacionados. Essas características incluem requisitos não funcionais, requisitos funcionais, prioridades e cargas de trabalho. Essas condições determinam a escolha de alternativas de desenvolvimento para um determinado sistema.
 
-&emsp;&emsp;Ele possui uma relação de interdependência entre seus softgoals, oferece técnicas de operacionalização e fornece catálogos para inferir possíveis interações.
+Além disso, essa implementação representa o NFR como um softgoal, os quais são unidades básicas para representar requisitos não-funcionais. Ele possui uma relação de interdependência entre seus softgoals, oferece técnicas de operacionalização e fornece catálogos para inferir possíveis interações.
 
 ## 2. Metodologia
 &emsp;&emsp;Através desse documento, buscamos definir as funcionalidades dos requisitos não-funcionais através da implementação de diagramas utilizando o NFR Framework, criando análises das possíveis situações.
@@ -37,11 +37,12 @@
 </center>
 ## 5. Bibliografia
 
-> - colocar algo aqui
+> - SILVA, Reinaldo Antônio da. NFR4ES:Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Recife, 201
 
 ## 6. Histórico de versão
 
-| Versão | Data       | Descrição                      | Autor        |
-| ------ | ---------- | ------------------------------ | ------------ |
-| 0.1    | 11/09/2021 | Criação do documento | Matheus Afonso |
-| 0.2    | 11/09/2021 | Legendas do NFR Framework | Matheus Afonso |
+| Versão | Data       | Descrição                      | Autor          |
+| ------ | ---------- | ------------------------------ | -------------  |
+| 0.1    | 11/09/2021 | Criação do documento           | Matheus Afonso |
+| 0.2    | 11/09/2021 | Legendas do NFR Framework      | Matheus Afonso |
+| 0.3    | 11/09/2021 | Atualizando a introdução e bibliografia | Juliana |
