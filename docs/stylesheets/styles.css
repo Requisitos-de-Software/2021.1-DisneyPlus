@@ -10,7 +10,7 @@ p {
 }
 
 thead tr {
-  background: #4051B5;
+  background: #4051B5 !important;
   color: white;
 }
 
