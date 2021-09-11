@@ -6,9 +6,9 @@
 ## 2. Épicos
 &emsp;&emsp;Épico pode ser descrito como uma história de usuário que ainda não foi detalhada, é muito grande ou ainda possui muita incerteza e portanto não pode ser transformada em incremento do produto. O épico deve ser fatiado em histórias de usuário menores. Nesse projeto os épicos foram separados em:
 <br />
-* [Conta](ep01_conta.md)
-* [Perfil](ep02_perfil.md)
-* [Conteúdo](ep03_conteudo.md)
+ - [Conta](ep01_conta.md)<br />
+ - [Perfil](ep02_perfil.md)<br />
+ - [Conteúdo](ep03_conteudo.md)<br />
 
 ## 3. Histórias de Usuários
 &emsp;&emsp;Em Agile, uma história de usuário é uma descrição curta, informal e em linguagem simples do que um usuário quer fazer dentro de um produto de software para obter algo que ele considere valioso.
