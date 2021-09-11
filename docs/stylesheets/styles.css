@@ -23,6 +23,10 @@ th {
   text-align: center !important;
 }
 
+td {
+  vertical-align: middle !important;
+}
+
 img[alt="drawing"] {
   width: 3rem;
   object-fit: cover;
