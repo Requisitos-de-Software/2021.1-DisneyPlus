@@ -9,6 +9,15 @@ p {
   text-align: justify;
 }
 
+th {
+  background: #4051B5;
+  color: white;
+}
+
+tr:nth-child(odd) {
+  background: #F8F8F8;
+}
+
 td,
 th {
   text-align: center !important;
