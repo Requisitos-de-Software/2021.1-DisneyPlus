@@ -25,6 +25,16 @@
 
 </center>
 
+### 4. Legenda
+<center>
+
+![nfr](../assets/nfr/nfr_guide.png)
+<figcaption>Imagem 1: Legenda dos elementos de definição do NFR Framework</figcaption>
+
+![nfr](../assets/nfr/nfr_line_guide.png)
+<figcaption>Imagem 2: Legenda dos elementos de relacionamento do NFR Framework</figcaption>
+
+</center>
 ## 5. Bibliografia
 
 > - colocar algo aqui
@@ -34,3 +44,4 @@
 | Versão | Data       | Descrição                      | Autor        |
 | ------ | ---------- | ------------------------------ | ------------ |
 | 0.1    | 11/09/2021 | Criação do documento | Matheus Afonso |
+| 0.2    | 11/09/2021 | Legendas do NFR Framework | Matheus Afonso |

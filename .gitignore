@@ -9,3 +9,5 @@ _docs
 *.pdf
 
 site
+
+.DS_Store
