@@ -18,7 +18,6 @@
 &emsp;&emsp;Eu, como usuário, gostaria de me cadastrar na plataforma para ter acesso a suas funcionalidades.
 
 #### Criterios de aceitação
-- O usuário deve ter um dispositivo compatível.
 - O usuário deve fornecer informações válidas.
 - O transação financeira deve ser confirmada.
 - Deve salvar os dados do usuário.
