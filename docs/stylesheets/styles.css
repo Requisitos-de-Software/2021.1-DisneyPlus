@@ -9,7 +9,7 @@ p {
   text-align: justify;
 }
 
-thead {
+thead tr {
   background: #4051B5;
   color: white;
 }
