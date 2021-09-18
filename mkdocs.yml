@@ -47,8 +47,21 @@ nav:
           - EP01 - Conta: modelagem/backlog/ep01_conta.md
           - EP02 - Perfil: modelagem/backlog/ep02_perfil.md
           - EP03 - Conteúdo: modelagem/backlog/ep03_conteudo.md
+  - Análise:
+      - Verificação:
+          - Verificação: analise/verificacao/verificacao.md
+          - NFR Framework: analise/verificacao/nfr_framework.md
+          - Rich Picture: analise/verificacao/rich_picture.md
+          - Backlog: analise/verificacao/backlog.md
+          - Casos de Uso: analise/verificacao/casos_de_uso.md
+          - Cenários: analise/verificacao/cenarios.md
+          - Léxicos: analise/verificacao/lexicos.md
+      - Validação:
+          - Prototipação: analise/validacao/prototipacao.md 
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
+      - Apresentação 3: apresentacoes/apresentacao3.md
+      - Apresentação 4: apresentacoes/apresentacao4.md
 
 dev_addr: '0.0.0.0:8000'
