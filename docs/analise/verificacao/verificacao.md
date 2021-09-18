@@ -18,6 +18,8 @@
     - Casos de Uso
     - Cenários
     - Léxicos
+    - NFR Framework
+    - Rich Picture
 
 &emsp;&emsp;Após essas etapas, cada estudante deve fazer a verificação dos grupos pelos quais é responsável.
 
