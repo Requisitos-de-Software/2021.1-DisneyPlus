@@ -29,7 +29,7 @@
 
 | Membro             | Grupos definidos            |
 | :------------------: | :-----------------: |
-| Matheus Afonso | Backlog (histórias de usuário) |
+| Matheus Afonso | Backlog (histórias de usuário) e Rich Picture |
 
 </center>
 
