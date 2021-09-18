@@ -1,7 +1,7 @@
 # NFR Framework
 
 ## 1. Introdução
-O NFR Framework é método de expressar e analisar Requisitos Não-Funcionais que foi proposto por Chung na Universidade de Toronto, sendo esse método uma representação sistemática e global de NFRs, abordando de uma maneira qualitativa e orientada a processos. Seu objetivo é ajudar os desenvolvedores a implementar soluções customizadas, levando em consideração as características dos campos e sistemas relacionados. Essas características incluem requisitos não funcionais, requisitos funcionais, prioridades e cargas de trabalho. Essas condições determinam a escolha de alternativas de desenvolvimento para um determinado sistema.
+O NFR Framework é um método de expressar e analisar Requisitos Não-Funcionais que foi proposto por Chung na Universidade de Toronto, sendo esse método uma representação sistemática e global de NFRs, abordando de uma maneira qualitativa e orientada a processos. Seu objetivo é ajudar os desenvolvedores a implementar soluções customizadas, levando em consideração as características dos campos e sistemas relacionados. Essas características incluem requisitos não funcionais, requisitos funcionais, prioridades e cargas de trabalho. Essas condições determinam a escolha de alternativas de desenvolvimento para um determinado sistema.
 
 Além disso, essa implementação representa o NFR como um softgoal, os quais são unidades básicas para representar requisitos não-funcionais. Ele possui uma relação de interdependência entre seus softgoals, oferece técnicas de operacionalização e fornece catálogos para inferir possíveis interações.
 
@@ -35,6 +35,7 @@ Além disso, essa implementação representa o NFR como um softgoal, os quais s�
 <figcaption>Imagem 2: Legenda dos elementos de relacionamento do NFR Framework</figcaption>
 
 </center>
+
 ## 5. Bibliografia
 
 > - SILVA, Reinaldo Antônio da. NFR4ES:Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Recife, 201
