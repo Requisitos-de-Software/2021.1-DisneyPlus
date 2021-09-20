@@ -63,5 +63,6 @@ nav:
       - Apresentação 2: apresentacoes/apresentacao2.md
       - Apresentação 3: apresentacoes/apresentacao3.md
       - Apresentação 4: apresentacoes/apresentacao4.md
+      - Apresentação 5: apresentacoes/apresentacao5.md
 
 dev_addr: '0.0.0.0:8000'
