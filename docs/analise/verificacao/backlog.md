@@ -386,6 +386,8 @@
 | 5 | Os critérios de aceitação são coerentes? | Sim |
 | 6 | Possui ator coerente? | Sim |
 
+</center>
+
 ## 2. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |

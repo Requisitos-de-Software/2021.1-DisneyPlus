@@ -1,5 +1,7 @@
 ## 1. Checklists
 
+<center>
+
 ### L01 - Acessar
 | Número | Questão                                           | Resposta |
 | :----: | :------:                                          | :------: |
@@ -13,6 +15,8 @@
 | 8      | Possui impacto correto?                           | Sim |
 | 9      | Possui noção correta?                             | Sim |
 | 10     | Linguagem e ortografia estão corretas?            | Sim |
+
+</center>
 
 ## 2. Histórico de versão
 

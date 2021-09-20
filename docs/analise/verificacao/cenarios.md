@@ -15,3 +15,10 @@
 | 8 |  	O planejamento induz a realização do objetivo? | Sim |
 | 9 |  	Os eventos estão dispostos da forma proposta? | Sim |
 
+</center>
+
+## 2. Histórico de versão
+
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 0.1    | 17/09/2021 | Criação do documento de verificação de cenários | Thiago Mesquita |
