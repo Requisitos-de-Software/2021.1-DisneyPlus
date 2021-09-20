@@ -8,7 +8,7 @@ Além disso, essa implementação representa o NFR como um softgoal, os quais s�
 ## 2. Metodologia
 &emsp;&emsp;Através desse documento, buscamos definir as funcionalidades dos requisitos não-funcionais através da implementação de diagramas utilizando o NFR Framework, criando análises das possíveis situações.
 
-### 3. Requisitos não funcionais
+## 3. Requisitos não funcionais
 &emsp;&emsp;Abaixo estão os requisitos não-funcionais levantados através das técnicas de elicitação utilizadas no projeto, sendo os mesmo utilizados para elaboração do NFR Framework.
 <center>
 
@@ -25,7 +25,7 @@ Além disso, essa implementação representa o NFR como um softgoal, os quais s�
 
 </center>
 
-### 4. Legenda
+## 4. Legenda
 <center>
 
 ![nfr](../assets/nfr/nfr_guide.png)
@@ -36,14 +36,34 @@ Além disso, essa implementação representa o NFR como um softgoal, os quais s�
 
 </center>
 
-## 5. Bibliografia
+## 5. Diagramas
+
+### 5.1 Usabilidade
+<center>
+
+![nfr](../assets/nfr/nfr_usability.png)
+<figcaption>Imagem 3: Diagrama NFR Framework de Usabilidade</figcaption>
+
+</center>
+
+### 5.1.1 Diagrama com propagação
+
+<center>
+
+![nfr](../assets/nfr/nfr_usability_prop.png)
+<figcaption>Imagem 4: Diagrama NFR Framework de Usabilidade com propagação</figcaption>
+
+</center>
+
+## 6. Bibliografia
 
 > - SILVA, Reinaldo Antônio da. NFR4ES:Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Recife, 201
 
-## 6. Histórico de versão
+## 7. Histórico de versão
 
 | Versão | Data       | Descrição                      | Autor          |
 | ------ | ---------- | ------------------------------ | -------------  |
 | 0.1    | 11/09/2021 | Criação do documento           | Matheus Afonso |
 | 0.2    | 11/09/2021 | Legendas do NFR Framework      | Matheus Afonso |
 | 0.3    | 11/09/2021 | Atualizando a introdução e bibliografia | Juliana |
+| 0.4    | 20/09/2021 | Adição do NFR Framework de Usabilidade | Mateus Gomes |
