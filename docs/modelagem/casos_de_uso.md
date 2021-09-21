@@ -79,6 +79,16 @@
 ![diagram](../../assets/casos_de_uso/diagram-1.png)
 
 <figcaption>Imagem 5: Diagrama do fluxo de conta.</figcaption>
+
+| UC01 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve ser capaz de criar uma conta |
+| Pré-condições | Acesso à internet e um dispositivo válido |
+| Ator | Usuário |
+| Ação | O usuário cria uma conta utilizando seus dados |
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de criar uma conta</li><li>O usuário fornece seus dados</li></ul> |
+| Pós-condições | O usuário poderá realizar login |
+
 </center>
 
 ## 4. Bibliografia
