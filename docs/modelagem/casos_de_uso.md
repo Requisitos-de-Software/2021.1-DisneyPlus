@@ -91,6 +91,44 @@
 
 </center>
 
+
+### 3.2 Fluxo de título
+
+<center>
+![diagram](../../assets/casos_de_uso/diagram-2.png)
+
+<figcaption>Imagem 6: Diagrama do fluxo de título.</figcaption>
+
+| UC02 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve ser capaz de assistir um título |
+| Pré-condições | Uma conta válida e um título |
+| Ator | Usuário |
+| Ação | O usuário assiste um título |
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul> |
+| Pós-condições | O usuário poderá realizar operações no título |
+
+</center>
+
+
+### 3.3 Fluxo de conteúdo
+
+<center>
+![diagram](../../assets/casos_de_uso/diagram-3.png)
+
+<figcaption>Imagem 7: Diagrama do fluxo de conteúdo.</figcaption>
+
+| UC03 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve ser capaz de navegar pelo conteúdo |
+| Pré-condições | Uma conta válida |
+| Ator | Usuário |
+| Ação | O usuário cria navega pelo conteúdo |
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li></ul> |
+| Pós-condições | O usuário poderá navegar pelo conteúdo |
+
+</center>
+
 ## 4. Bibliografia
 
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
@@ -105,3 +143,4 @@
 | 0.1    | 29/08/2021 | Criação do documento | Mateus Gomes |
 | 0.2    | 29/08/2021 | Criação do diagrama de fluxo de conta | Todos os integrantes |
 | 0.3    | 02/09/2021 | Criação da introdução, diagrama de casos de uso e bibliografia | Mateus Gomes |
+| 0.4    | 21/09/2021 | Documentos de use cases completos e especificações | Matheus Afonso |
