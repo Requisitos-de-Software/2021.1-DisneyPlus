@@ -716,7 +716,6 @@
 | 9      | Possui noção correta?                             | ✔ |
 | 10     | Linguagem e ortografia estão corretas?            | ✔ |
 
-
 </center>
 
 ## 2. Histórico de versão
