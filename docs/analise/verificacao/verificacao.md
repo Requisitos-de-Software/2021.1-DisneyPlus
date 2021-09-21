@@ -30,6 +30,7 @@
 | Membro             | Grupos definidos            |
 | :------------------: | :-----------------: |
 | Matheus Afonso | Backlog (histórias de usuário) e Rich Picture |
+| Paulo Victor | Casos de Uso |
 
 </center>
 
@@ -38,3 +39,4 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 17/09/2021 | Criação da árvore de análise e página de verificação | Matheus Afonso |
+| 0.2    | 21/09/2021 | Adição dos dados em equipe | Paulo Victor |
