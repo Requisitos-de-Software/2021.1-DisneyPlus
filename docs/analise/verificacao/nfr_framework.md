@@ -3,6 +3,7 @@
 <center>
 
 ### NFR01 - Usabilidade
+
 | Número | Questão | Resposta |
 | :----: | :------:| :------: |
 | 1 | O diagrama representa corretamente o fluxo? | Sim |
@@ -14,6 +15,8 @@
 | 7 | As contribuições estão bem representadas? | Sim |
 | 8 | Os impactos foram propagados corretamente? | Sim |
 | 9 | Os elementos do diagrama estão bem representados? | Sim |
+
+</center>
 
 ## 2. Histórico de versão
 

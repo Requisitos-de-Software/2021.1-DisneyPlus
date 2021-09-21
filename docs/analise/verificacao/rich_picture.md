@@ -24,6 +24,7 @@
 | 5 | Sim |
 | 6 | Sim |
 
+</center>
 
 ## 2. Histórico de versão
 
