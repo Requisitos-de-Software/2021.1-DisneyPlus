@@ -9,25 +9,26 @@
     5. Textos estão claros?
     6. As relações fazem sentido?
 
-
 ## 2. Resposta
 
 <center>
 
 ### US01 - Criar uma conta
-| Número | Rich picture | 
-| :----: | :------:|
-| 1 | Sim |
-| 2 | Sim |
-| 3 | Sim |
-| 4 | Sim |
-| 5 | Sim |
-| 6 | Sim |
+
+| Número | Rich picture |
+| :----: | :----------: |
+|   1    |      ✔       |
+|   2    |      ✔       |
+|   3    |      ✔       |
+|   4    |      ✔       |
+|   5    |      ✔       |
+|   6    |      ✔       |
 
 </center>
 
 ## 2. Histórico de versão
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
+| Versão | Data       | Descrição                                           | Autor          |
+| ------ | ---------- | --------------------------------------------------- | -------------- |
 | 0.1    | 17/09/2021 | Criação do documento de verificação de rich picture | Matheus Afonso |
+| 0.2    | 21/09/2021 | Muda estilo da tabela                               | Paulo Victor   |
