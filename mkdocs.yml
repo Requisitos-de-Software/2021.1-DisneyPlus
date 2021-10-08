@@ -57,7 +57,9 @@ nav:
           - Cenários: analise/verificacao/cenarios.md
           - Léxicos: analise/verificacao/lexicos.md
       - Validação:
-          - Prototipação: analise/validacao/prototipacao.md 
+          - Prototipação: analise/validacao/prototipacao.md
+  - Pós-rastreabilidade:
+      - Backward-from: pos_rastreabilidade/backward_from.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md

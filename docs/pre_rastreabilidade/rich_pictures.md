@@ -38,10 +38,10 @@
 
 ## 4. Histórico de versão
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 03/08/2021 | Criação do Rich Picture Versão 1 | Todos os integrantes |
-| 0.2    | 24/08/2021 | Criação da introdução | Mateus Gomes |
-| 0.3    | 24/08/2021 | Adição da primeira versão | Mateus Gomes |
-| 0.4    | 24/08/2021 | Adição da referência bibliográfica | Mateus Gomes |
-| 0.5    | 24/08/2021 | Correções de formatação | Mateus Gomes |
+| Versão | Data       | Descrição                          | Autor                |
+| ------ | ---------- | ---------------------------------- | -------------------- |
+| 0.1    | 03/08/2021 | Criação do Rich Picture Versão 1   | Todos os integrantes |
+| 0.2    | 24/08/2021 | Criação da introdução              | Mateus Gomes         |
+| 0.3    | 24/08/2021 | Adição da primeira versão          | Mateus Gomes         |
+| 0.4    | 24/08/2021 | Adição da referência bibliográfica | Mateus Gomes         |
+| 0.5    | 24/08/2021 | Correções de formatação            | Mateus Gomes         |
