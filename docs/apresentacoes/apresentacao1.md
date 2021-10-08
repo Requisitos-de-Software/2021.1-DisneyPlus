@@ -8,9 +8,12 @@
 
 </center>
 
-<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAEmG_UeqqI/view?embed"> </iframe>
 
-## 2. Histórico de versão
+## 2. Slides
+
+<iframe loading="lazy" style="width: 100%; height: 25.8rem; border: 1px solid #4051B5; padding: 0; margin: 0;" src="https://www.canva.com/design/DAEmG_UeqqI/view?embed"> </iframe>
+
+## 3. Histórico de versão
 
 | Versão | Data       | Descrição                       | Autor                |
 | ------ | ---------- | ------------------------------- | -------------------- |
