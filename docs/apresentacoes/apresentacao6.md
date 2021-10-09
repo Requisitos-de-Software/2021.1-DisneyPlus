@@ -19,4 +19,3 @@
 | 0.1    | 08/10/2021 | Gravação da apresentação | Todos os integrantes |
 | 0.2    | 08/10/2021 | Criação do documento     | Mateus Gomes         |
 | 0.3    | 09/10/2021 | Adição dos Slides        | Mateus Gomes         |
-diff --git a/mkdocs.yml b/mkdocs.yml
