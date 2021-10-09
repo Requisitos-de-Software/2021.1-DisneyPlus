@@ -23,13 +23,13 @@ Desenvolvimento, Gerencial: abarca informações relacionadas aos diversos artef
 |  RF2   | O usuário deve poder realizar login                        |         US02          |L25 - Login, L50 - Usuário|C02 - Realizar Login       |Gerencial, Desenvolvimento|
 |  RF3   | O usuário deve poder criar uma conta                       |         US01          |L06 - Criar, L04 - Conta, L50 - Usuário|C03 - Criar Conta |Gerencial, Desenvolvimento|
 |  RF4   | O usuário deve poder assistir títulos                      |         US19          |L03 - Assistir, L49 - Título, L50 - Usuário|C04 - Assistir títulos|Gerencial, Desenvolvimento|
-|  RF5   | O usuário deve poder realizar logout                       |         US03          |
-|  RF6   | O usuário deve poder pesquisar títulos                     |         US20          |
-|  RF7   | O usuário deve poder recuperar sua senha                   |         US04          |
-|  RF8   | O usuário deve poder selecionar um perfil                  |         US11          |
-|  RF9   | O usuário deve poder controlar o volume de um título       |         US21          |
-|  RF10  | O usuário deve poder cancelar sua assinatura               |         US05          |
-|  RF11  | O usuário deve poder retomar um título                     |         US22          |
+|  RF5   | O usuário deve poder realizar logout                       |         US03          |L26 - Logout, L50 - Usuário|C05 - Realizar logout|Gerencial, Desenvolvimento|
+|  RF6   | O usuário deve poder pesquisar títulos                     |         US20          |L32 - Pesquisar, L49 - Título, L50 - Usuário|C06 - Pesquisar Títulos|Gerencial, Desenvolvimento|
+|  RF7   | O usuário deve poder recuperar sua senha                   |         US04          |L42 - Senha, L50 - Usuário|C07 - Recuperar senha||Gerencial, Desenvolvimento|
+|  RF8   | O usuário deve poder selecionar um perfil                  |         US11          |L41 - Selecionar perfil, L50 - Usuário|C08 - Selecionar Perfil|Gerencial, Desenvolvimento|
+|  RF9   | O usuário deve poder controlar o volume de um título       |         US21          |L05 - Controlar, L50 - Usuário|C09 - Controlar volume|Gerencial, Desenvolvimento|
+|  RF10  | O usuário deve poder cancelar sua assinatura               |         US05          |L02 - Assinatura, L50 - Usuário|C10 - Cancelar assinatura|Gerencial, Desenvolvimento|
+|  RF11  | O usuário deve poder retomar um título                     |         US22          |L38 - Retomar, L49 - Título, L50 - Usuário|C11 - Controlar tempo de um título|Gerencial, Desenvolvimento|
 |  RF12  | O usuário deve poder controlar o tempo de um título        |         US23          |
 |  RF13  | O usuário deve poder editar um perfil                      |         US12          |
 |  RF14  | O usuário deve poder ver informações da sua conta          |         US06          |
