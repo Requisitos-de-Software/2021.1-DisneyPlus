@@ -30,39 +30,42 @@ Desenvolvimento, Gerencial: abarca informações relacionadas aos diversos artef
 |  RF9   | O usuário deve poder controlar o volume de um título       |         US21          |L05 - Controlar, L50 - Usuário|C09 - Controlar volume|Gerencial, Desenvolvimento|
 |  RF10  | O usuário deve poder cancelar sua assinatura               |         US05          |L02 - Assinatura, L50 - Usuário|C10 - Cancelar assinatura|Gerencial, Desenvolvimento|
 |  RF11  | O usuário deve poder retomar um título                     |         US22          |L38 - Retomar, L49 - Título, L50 - Usuário|C11 - Controlar tempo de um título|Gerencial, Desenvolvimento|
-|  RF12  | O usuário deve poder controlar o tempo de um título        |         US23          |
-|  RF13  | O usuário deve poder editar um perfil                      |         US12          |
-|  RF14  | O usuário deve poder ver informações da sua conta          |         US06          |
-|  RF15  | O usuário deve poder renovar sua assinatura                |         US07          |
-|  RF16  | O usuário deve poder alterar a legenda                     |         US24	      |
-|  RF17  | O usuário deve poder filtrar títulos                       |         US26          |
-|  RF18  | O usuário deve poder baixar um título para assitir offline |         US25          |
-|  RF19  | O usuário deve poder mudar dados de pagamento              |         US08          |
-|  RF20  | O usuário deve poder marcar títulos para assistir depois   |         US27          |
-|  RF21  | O usuário deve poder reproduzir automaticamente            |         US28          |
-|  RF22  | O usuário deve poder criar uma lista                       |         US14          |
-|  RF23  | O usuário deve poder alterar o idioma                      |         US29          |
-|  RF24  | O usuário deve poder pular a abertura                      |         US30          |
-|  RF25  | O usuário deve poder trocar a qualidade da stream          |         US31          |
-|  RF26  | O usuário deve poder adicionar um título em uma lista      |         US15          |
-|  RF27  | O usuário deve poder colocar um pin para acessar um perfil |         US13          |
-|  RF28  | O usuário deve poder criar um perfil infantil              |         US16          |
-|  RF29  | O usuário deve poder excluir um perfil                     |         US17          |
-|  RF30  | O usuário deve poder assistir um trailer                   |         US32          |
-|  RF31  | O usuário deve poder visualizar detalhes do título         |         US33          |
-|  RF32  | O usuário deve poder sair de todos os dispositivos         |         US09          |
-|  RF33  | O usuário deve poder assistir em segundo plano             |         US34          |
-|  RF34  | O usuário deve poder entrar em um grupo watch              |         US35          |
-|  RF35  | O usuário deve poder restringir a criação de perfis        |         US18          |
-
+|  RF12  | O usuário deve poder controlar o tempo de um título        |         US23          |L05 - Controlar, L11 - Duração, L49 - Título, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF13  | O usuário deve poder editar um perfil                      |         US12          |L12 - Editar Perfil, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF14  | O usuário deve poder ver informações da sua conta          |         US06          |L04 - Conta, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF15  | O usuário deve poder renovar sua assinatura                |         US07          |L02 - Assinatura, L35 - Renovar, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF16  | O usuário deve poder alterar a legenda                     |         US24	      |L23 - Legenda, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF17  | O usuário deve poder filtrar títulos                       |         US26          |L18 - Filtrar, L49 - Título, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF18  | O usuário deve poder baixar um título para assitir offline |         US25          |L03 - Assistir, L10 - Download, L49 - Título, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF19  | O usuário deve poder mudar dados de pagamento              |         US08          |L29 - Pagamento, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF20  | O usuário deve poder marcar títulos para assistir depois   |         US27          |L03 - Assistir, L49 - Título, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF21  | O usuário deve poder reproduzir automaticamente            |         US28          |L36 - Reprodução automática, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF22  | O usuário deve poder criar uma lista                       |         US14          |L06 - Criar, L24 - Lista, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF23  | O usuário deve poder alterar o idioma                      |         US29          |L05 - Controlar, L22 - Idioma, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF24  | O usuário deve poder pular a abertura                      |         US30          |L05 - Controlar, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF25  | O usuário deve poder trocar a qualidade da stream          |         US31          |L05 - Controlar, L45 - Streaming, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF26  | O usuário deve poder adicionar um título em uma lista      |         US15          |L24 - Lista, L49 - Título, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF27  | O usuário deve poder colocar um pin para acessar um perfil |         US13          |L01 - Acessar, L33 - Pin, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF28  | O usuário deve poder criar um perfil infantil              |         US16          |L06 - Criar, L31 - Perfil Infantil, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF29  | O usuário deve poder excluir um perfil                     |         US17          |L14 - Excluir, L30 - Perfil, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF30  | O usuário deve poder assistir um trailer                   |         US32          |L03 - Assistir, L16 - Extra, L48 - Trailer, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF31  | O usuário deve poder visualizar detalhes do título         |         US33          |L16 - Extra, L49 - Título, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF32  | O usuário deve poder sair de todos os dispositivos         |         US09          |L08 - Dispositivo, L39 - Sair, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF33  | O usuário deve poder assistir em segundo plano             |         US34          |L03 - Assistir, L40 - Segundo plano, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF34  | O usuário deve poder entrar em um grupo watch              |         US35          |L01 - Acessar, L21 - Grupo watch, L50 - Usuário| | Gerencial, Desenvolvimento|
+|  RF35  | O usuário deve poder restringir a criação de perfis        |         US18          |L04 - Conta, L06 - Criar, L30 - Perfil, L50 - Usuário| | Gerencial, Desenvolvimento|
 
 ## 4. Referência bibliográfica
+> - SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019.
 
 ## 5. Histórico de versão
 
-| Versão | Data       | Descrição                    | Autor                   |
-| ------ | ---------- | ---------------------------- | ----------------------- |
-| 0.1    | 08/10/2021 | Criação do documento         | Juliana Valle           |
-| 0.2    | 08/10/2021 | Descrição da introdução      | Vinícius Saturnino      |
-| 0.3    | 08/10/2021 | Desenvolvimento do documento | Juliana Valle           |
+| Versão | Data       | Descrição                         | Autor                   |
+| ------ | ---------- | --------------------------------- | ----------------------- |
+| 0.1    | 08/10/2021 | Criação do documento              | Juliana Valle           |
+| 0.2    | 08/10/2021 | Descrição da introdução           | Vinícius Saturnino      |
+| 0.3    | 08/10/2021 | Desenvolvimento do documento      | Juliana Valle           |
+| 0.4    | 08/10/2021 | Terminando o corpo do documento   | Juliana Valle           |
+| 0.4    | 08/10/2021 | Colocando referência bibliográfica| Juliana Valle           |
+
 
