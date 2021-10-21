@@ -1,4 +1,4 @@
-# Backward-from
+# Forward-from
 
 ## 1. Introdução
 Forward-From é a etapa onde ligamos os Requisitos e artefatos de desenho e implementação. O grupo optou por utilizar meta-modelo de Toranzo.
